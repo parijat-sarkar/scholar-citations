@@ -1,0 +1,42 @@
+name: Update Scholar citations
+
+on:
+  # Run every Monday at 07:00 UTC. Adjust the cron as you like.
+  schedule:
+    - cron: "0 7 * * 1"
+  # Also allow running it by hand from the Actions tab.
+  workflow_dispatch:
+
+# Let the workflow commit the updated JSON back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch citation count
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          SCHOLAR_ID: ${{ secrets.SCHOLAR_ID }}
+        run: python fetch_citations.py
+
+      - name: Commit updated citations.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- citations.json; then
+            echo "No change in citation count; nothing to commit."
+          else
+            git add citations.json
+            git commit -m "Update citation count [skip ci]"
+            git push
+          fi
