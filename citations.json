@@ -1,8 +1,1286 @@
 {
-  "citations": 17635,
-  "h_index": 56,
-  "i10_index": 82,
   "author": "Rajat Rohatgi",
   "scholar_id": "ElQU3_0AAAAJ",
-  "updated": "2026-07-25T20:36:48Z"
+  "paper_count": 142,
+  "papers": [
+    {
+      "id": "mutational-scanning-reveals-substrate-assisted-autoregulation-of-the-wnt-destruc",
+      "title": "Mutational scanning reveals substrate-assisted autoregulation of the WNT destruction complex",
+      "authors": "M Padmanarayana, S Sakalas, P Sarkar, M Ma, ER Garvin, E Lee, ...",
+      "publication": "Nature Genetics, 1-15, 2026",
+      "year": "2026",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:Y5dfb0dijaUC"
+    },
+    {
+      "id": "regulation-of-eif5a-and-hypusination-by-p53-determines-colorectal-cancer-cell-fi",
+      "title": "Regulation of EIF5A and hypusination by p53 determines colorectal cancer cell fitness",
+      "authors": "AP Gobert, CV Hawkins, M Asim, DP Barry, AG Delgado, RN Tyree, ...",
+      "publication": "Cancer Letters, 218682, 2026",
+      "year": "2026",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:9vf0nzSNQJEC"
+    },
+    {
+      "id": "design-principles-of-a-membrane-spanning-ubiquitin-ligase",
+      "title": "Design principles of a membrane-spanning ubiquitin ligase",
+      "authors": "C Williams, LM Nocka, G Hedger, P Parashara, E Pardon, NR Latorraca, ...",
+      "publication": "Molecular cell 86 (11), 2207-2222. e16, 2026",
+      "year": "2026",
+      "citations": 4,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:eMMeJKvmdy0C"
+    },
+    {
+      "id": "multiple-modes-of-cholesterol-translocation-in-the-human-smoothened-receptor",
+      "title": "Multiple modes of cholesterol translocation in the human Smoothened receptor",
+      "authors": "PD Bansal, M Kinnebrew, R Rohatgi, D Shukla",
+      "publication": "Elife 14, RP108030, 2026",
+      "year": "2026",
+      "citations": 1,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:q3oQSFYPqjQC"
+    },
+    {
+      "id": "structural-basis-of-regulated-n-glycosylation-at-the-secretory-translocon",
+      "title": "Structural basis of regulated N-glycosylation at the secretory translocon",
+      "authors": "M Yamsek, M Ma, R Jha, Y Wan, Q Li, F Zhong, K DeLong, Z Ji, R Rohatgi, ...",
+      "publication": "Nature 649 (8097), 777-784, 2026",
+      "year": "2026",
+      "citations": 6,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:_B80troHkn4C"
+    },
+    {
+      "id": "plasma-membrane-accessible-cholesterol-is-regulated-by-acc1-and-lipid-droplets",
+      "title": "Plasma membrane accessible cholesterol is regulated by ACC1 and lipid droplets",
+      "authors": "KM Wijesinghe, C Kim, EO Schad, S Li, S Chen, E Takeshima, ...",
+      "publication": "bioRxiv, 2025",
+      "year": "2025",
+      "citations": 2,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:Mojj43d5GZwC"
+    },
+    {
+      "id": "the-trip12-e3-ligase-induces-swi-snf-component-brg1-catenin-interaction-to-promo",
+      "title": "The TRIP12 E3 ligase induces SWI/SNF component BRG1-β-catenin interaction to promote Wnt signaling",
+      "authors": "S Kassel, K Yuan, N Bunnag, LR Neitzel, W Lu, A Schwarzkopf, B Maines, ...",
+      "publication": "Nature Communications 16 (1), 5248, 2025",
+      "year": "2025",
+      "citations": 6,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:t6usbXjVLHcC"
+    },
+    {
+      "id": "deciphering-the-significance-of-p53-mutant-proteins",
+      "title": "Deciphering the significance of p53 mutant proteins",
+      "authors": "A Butera, I Amelio",
+      "publication": "Trends in Cell Biology 35 (3), 258-268, 2025",
+      "year": "2025",
+      "citations": 37,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:PELIpwtuRlgC"
+    },
+    {
+      "id": "direct-ionic-stress-sensing-and-mitigation-by-the-transcription-factor-nfat5",
+      "title": "Direct ionic stress sensing and mitigation by the transcription factor NFAT5",
+      "authors": "CB Khandwala, P Sarkar, HB Schmidt, M Ma, GV Pusapati, F Lamoliatte, ...",
+      "publication": "Science Advances 11 (8), eadu3194, 2025",
+      "year": "2025",
+      "citations": 8,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:B3FOqHPlNUQC"
+    },
+    {
+      "id": "perfil-empreendedor-dos-cirurgi-es-dentistas-atuantes-na-rea-de-pr-tese-dent-ria",
+      "title": "Perfil empreendedor dos cirurgiões-dentistas atuantes na área de prótese dentária no interior de Minas Gerais",
+      "authors": "PC Lopes, LB Pereira",
+      "publication": "Perquirere 21 (3), 2024",
+      "year": "2024",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:LPZeul_q3PIC"
+    },
+    {
+      "id": "regulated-n-glycosylation-controls-chaperone-function-and-receptor-trafficking",
+      "title": "Regulated N-glycosylation controls chaperone function and receptor trafficking",
+      "authors": "M Ma, R Dubey, A Jen, GV Pusapati, B Singal, E Shishkova, KA Overmyer, ...",
+      "publication": "Science 386 (6722), 667-672, 2024",
+      "year": "2024",
+      "citations": 28,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:BrmTIyaxlBUC"
+    },
+    {
+      "id": "substrate-directed-control-of-n-glycosylation-in-the-endoplasmic-reticulum-calib",
+      "title": "Substrate-directed control of N-glycosylation in the endoplasmic reticulum calibrates signal reception at the cell-surface",
+      "authors": "M Ma, R Dubey, A Jen, GV Pusapati, E Shishkova, KA Overmyer, ...",
+      "publication": "bioRxiv, 2024.04. 25.591210, 2024",
+      "year": "2024",
+      "citations": 2,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:eJXPG6dFmWUC"
+    },
+    {
+      "id": "the-exocyst-complex-and-intracellular-vesicles-mediate-soluble-protein-trafficki",
+      "title": "The exocyst complex and intracellular vesicles mediate soluble protein trafficking to the primary cilium",
+      "authors": "SM Niedziółka, S Datta, T Uśpieński, B Baran, W Skarżyńska, EW Humke, ...",
+      "publication": "Communications Biology 7 (1), 213, 2024",
+      "year": "2024",
+      "citations": 14,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:OU6Ihb5iCvQC"
+    },
+    {
+      "id": "a-cholesterol-binding-bacterial-toxin-provides-a-strategy-for-identifying-a-spec",
+      "title": "A cholesterol-binding bacterial toxin provides a strategy for identifying a specific Scap inhibitor that blocks lipid synthesis in animal cells",
+      "authors": "S Xu, JC Smothers, D Rye, S Endapally, H Chen, S Li, G Liang, ...",
+      "publication": "Proceedings of the National Academy of Sciences 121 (7), e2318024121, 2024",
+      "year": "2024",
+      "citations": 16,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:5Ul4iDaHHb8C"
+    },
+    {
+      "id": "the-usp46-complex-deubiquitylates-lrp6-to-promote-wnt-catenin-signaling",
+      "title": "The USP46 complex deubiquitylates LRP6 to promote Wnt/β-catenin signaling",
+      "authors": "VH Ng, Z Spencer, LR Neitzel, A Nayak, MA Loberg, C Shen, SN Kassel, ...",
+      "publication": "Nature communications 14 (1), 6173, 2023",
+      "year": "2023",
+      "citations": 27,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:geHnlv5EZngC"
+    },
+    {
+      "id": "the-usp46-deubiquitylase-complex-increases-wingless-wnt-signaling-strength-by-st",
+      "title": "The USP46 deubiquitylase complex increases Wingless/Wnt signaling strength by stabilizing Arrow/LRP6",
+      "authors": "ZT Spencer, VH Ng, H Benchabane, GS Siddiqui, D Duwadi, B Maines, ...",
+      "publication": "Nature Communications 14 (1), 6174, 2023",
+      "year": "2023",
+      "citations": 11,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:sSrBHYA8nusC"
+    },
+    {
+      "id": "the-energetics-and-ion-coupling-of-cholesterol-transport-through-patched1",
+      "title": "The energetics and ion coupling of cholesterol transport through Patched1",
+      "authors": "TB Ansell, RA Corey, LV Viti, M Kinnebrew, R Rohatgi, C Siebold, ...",
+      "publication": "Science Advances 9 (34), eadh1609, 2023",
+      "year": "2023",
+      "citations": 11,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:tOudhMTPpwUC"
+    },
+    {
+      "id": "the-inseparable-relationship-between-cholesterol-and-hedgehog-signaling",
+      "title": "The inseparable relationship between cholesterol and Hedgehog signaling",
+      "authors": "C Siebold, R Rohatgi",
+      "publication": "Annual review of biochemistry 92 (1), 273-298, 2023",
+      "year": "2023",
+      "citations": 32,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:08ZZubdj9fEC"
+    },
+    {
+      "id": "the-role-of-signaling-sensitivity-in-congenital-heart-defects-and-heterotaxy",
+      "title": "The role of signaling sensitivity in congenital heart defects and heterotaxy",
+      "authors": "JH Kong, CB Young, G Pusapati, FH Espinoza, CB Patel, JF Bazan, ...",
+      "publication": "MOLECULAR BIOLOGY OF THE CELL 34 (2), 390-390, 2023",
+      "year": "2023",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:bnK-pcrLprsC"
+    },
+    {
+      "id": "oxaliplatin-disrupts-nucleolar-function-through-biophysical-disintegration",
+      "title": "Oxaliplatin disrupts nucleolar function through biophysical disintegration",
+      "authors": "HB Schmidt, ZA Jaafar, BE Wulff, JJ Rodencal, K Hong, MO Aziz-Zanjani, ...",
+      "publication": "Cell reports 41 (6), 2022",
+      "year": "2022",
+      "citations": 58,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:K3LRdlH-MEoC"
+    },
+    {
+      "id": "patched-1-regulates-smoothened-by-controlling-sterol-binding-to-its-extracellula",
+      "title": "Patched 1 regulates Smoothened by controlling sterol binding to its extracellular cysteine-rich domain",
+      "authors": "M Kinnebrew, RE Woolley, TB Ansell, EFX Byrne, S Frigui, G Luchetti, ...",
+      "publication": "Science advances 8 (22), eabm5563, 2022",
+      "year": "2022",
+      "citations": 50,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:WbkHhVStYXYC"
+    },
+    {
+      "id": "receptor-control-by-membrane-tethered-ubiquitin-ligases-in-development-and-tissu",
+      "title": "Receptor control by membrane-tethered ubiquitin ligases in development and tissue homeostasis",
+      "authors": "AM Lebensohn, JF Bazan, R Rohatgi",
+      "publication": "Current topics in developmental biology 150, 25-89, 2022",
+      "year": "2022",
+      "citations": 18,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:738O_yMBCRsC"
+    },
+    {
+      "id": "hedgehog-interacting-protein-is-a-multimodal-antagonist-of-hedgehog-signalling",
+      "title": "Hedgehog-Interacting Protein is a multimodal antagonist of Hedgehog signalling",
+      "authors": "SC Griffiths, RA Schwab, K El Omari, B Bishop, EJ Iverson, T Malinauskas, ...",
+      "publication": "Nature communications 12 (1), 7171, 2021",
+      "year": "2021",
+      "citations": 41,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:u9iWguZQMMsC"
+    },
+    {
+      "id": "patched-1-reduces-the-accessibility-of-cholesterol-in-the-outer-leaflet-of-membr",
+      "title": "Patched 1 reduces the accessibility of cholesterol in the outer leaflet of membranes",
+      "authors": "M Kinnebrew, G Luchetti, R Sircar, S Frigui, LV Viti, T Naito, F Beckert, ...",
+      "publication": "Elife 10, e70504, 2021",
+      "year": "2021",
+      "citations": 69,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:p2g8aNsByqUC"
+    },
+    {
+      "id": "environmental-interactions-with-hedgehog",
+      "title": "Environmental interactions with Hedgehog",
+      "authors": "R Krauss, R Rohatgi",
+      "publication": "DEVELOPMENT 148 (19), 2021",
+      "year": "2021",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:Tiz5es2fbqcC"
+    },
+    {
+      "id": "gene-teratogen-interactions-influence-the-penetrance-of-birth-defects-by-alterin",
+      "title": "Gene-teratogen interactions influence the penetrance of birth defects by altering Hedgehog signaling strength",
+      "authors": "JH Kong, CB Young, GV Pusapati, FH Espinoza, CB Patel, F Beckert, ...",
+      "publication": "Development 148 (19), dev199867, 2021",
+      "year": "2021",
+      "citations": 16,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:SP6oXDckpogC"
+    },
+    {
+      "id": "measuring-and-manipulating-membrane-cholesterol-for-the-study-of-hedgehog-signal",
+      "title": "Measuring and Manipulating Membrane Cholesterol for the Study of Hedgehog Signaling",
+      "authors": "M Kinnebrew, KA Johnson, A Radhakrishnan, R Rohatgi",
+      "publication": "Hedgehog Signaling: Methods and Protocols, 73-87, 2021",
+      "year": "2021",
+      "citations": 1,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:uWQEDVKXjbEC"
+    },
+    {
+      "id": "oxaliplatin-kills-cells-via-liquid-liquid-demixing-of-nucleoli",
+      "title": "Oxaliplatin kills cells via liquid-liquid demixing of nucleoli",
+      "authors": "HB Schmidt, ZA Jaafar, JJ Rodencal, MD Leonetti, SJ Dixon, R Rohatgi, ...",
+      "publication": "BioRxiv, 2021.06. 10.447918, 2021",
+      "year": "2021",
+      "citations": 6,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:dshw04ExmUIC"
+    },
+    {
+      "id": "an-essential-role-for-grk2-in-hedgehog-signalling-downstream-of-smoothened",
+      "title": "An essential role for Grk2 in Hedgehog signalling downstream of Smoothened",
+      "authors": "Z Zhao, RTH Lee, GV Pusapati, A Iyu, R Rohatgi, PW Ingham",
+      "publication": "The EMBO Reports 22 (5), EMBR202152895, 2021",
+      "year": "2021",
+      "citations": 3,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:nb7KW1ujOQ8C"
+    },
+    {
+      "id": "cholesterol-as-a-second-messenger-in-the-hedgehog-signaling-pathway",
+      "title": "Cholesterol as a Second Messenger in the Hedgehog Signaling Pathway",
+      "authors": "M Kinnebrew, E Iverson, B Patel, G Pusapati, J Kong, K Johnson, ...",
+      "publication": "The FASEB Journal 35, 2021",
+      "year": "2021",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:4fKUyHm3Qg0C"
+    },
+    {
+      "id": "human-chimpanzee-fused-cells-reveal-cis-regulatory-divergence-underlying-skeleta",
+      "title": "Human–chimpanzee fused cells reveal cis-regulatory divergence underlying skeletal evolution",
+      "authors": "D Gokhman, RM Agoglia, M Kinnebrew, W Gordon, D Sun, VK Bajpai, ...",
+      "publication": "Nature genetics 53 (4), 467-476, 2021",
+      "year": "2021",
+      "citations": 88,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:1sJd4Hv_s6UC"
+    },
+    {
+      "id": "genome-wide-screens-point-to-disordered-proteins-as-sensors-of-osmotic-stress",
+      "title": "Genome Wide Screens Point to Disordered Proteins as Sensors of Osmotic Stress",
+      "authors": "K Guadalupe, B Schmidt, R Rohatgi, S Sukenik",
+      "publication": "Biophysical Journal 120 (3), 311a, 2021",
+      "year": "2021",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:CHSYGLWDkRkC"
+    },
+    {
+      "id": "bile-acid-biosynthesis-in-smith-lemli-opitz-syndrome-bypassing-cholesterol-poten",
+      "title": "Bile acid biosynthesis in Smith-Lemli-Opitz syndrome bypassing cholesterol: Potential importance of pathway intermediates",
+      "authors": "J Abdel-Khalik, T Hearn, AL Dickson, PJ Crick, E Yutuc, K Austin-Muttitt, ...",
+      "publication": "The Journal of steroid biochemistry and molecular biology 206, 105794, 2021",
+      "year": "2021",
+      "citations": 31,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:xtRiw3GOFMkC"
+    },
+    {
+      "id": "cholesterol-access-in-cellular-membranes-controls-hedgehog-signaling",
+      "title": "Cholesterol access in cellular membranes controls Hedgehog signaling",
+      "authors": "A Radhakrishnan, R Rohatgi, C Siebold",
+      "publication": "Nature chemical biology 16 (12), 1303-1313, 2020",
+      "year": "2020",
+      "citations": 169,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:NhqRSupF_l8C"
+    },
+    {
+      "id": "a-membrane-tethered-ubiquitination-pathway-regulates-hedgehog-signaling-and-hear",
+      "title": "A membrane-tethered ubiquitination pathway regulates hedgehog signaling and heart development",
+      "authors": "JH Kong, CB Young, GV Pusapati, CB Patel, S Ho, A Krishnan, JHI Lin, ...",
+      "publication": "Developmental cell 55 (4), 432-449. e12, 2020",
+      "year": "2020",
+      "citations": 58,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:b0M2c_1WBrUC"
+    },
+    {
+      "id": "mutations-in-grk2-cause-jeune-syndrome-by-impairing-hedgehog-and-canonical-wnt-s",
+      "title": "Mutations in GRK2 cause Jeune syndrome by impairing Hedgehog and canonical Wnt signaling",
+      "authors": "M Bosakova, SP Abraham, A Nita, E Hruba, M Buchtova, SP Taylor, ...",
+      "publication": "EMBO molecular medicine 12 (11), EMMM201911739, 2020",
+      "year": "2020",
+      "citations": 33,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:abG-DnoFyZgC"
+    },
+    {
+      "id": "a-ubiquitin-based-mechanism-for-the-oligogenic-inheritance-of-heterotaxy-and-hea",
+      "title": "A ubiquitin-based mechanism for the oligogenic inheritance of heterotaxy and heart defects",
+      "authors": "JH Kong, CB Young, GV Pusapati, CB Patel, S Ho, A Krishnan, JHI Lin, ...",
+      "publication": "bioRxiv, 2020.05. 25.113944, 2020",
+      "year": "2020",
+      "citations": 1,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:_xSYboBqXhAC"
+    },
+    {
+      "id": "r-spondins-engage-heparan-sulfate-proteoglycans-to-potentiate-wnt-signaling",
+      "title": "R-spondins engage heparan sulfate proteoglycans to potentiate WNT signaling",
+      "authors": "R Dubey, P van Kerkhof, I Jordens, T Malinauskas, GV Pusapati, ...",
+      "publication": "elife 9, e54469, 2020",
+      "year": "2020",
+      "citations": 62,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:f2IySw72cVMC"
+    },
+    {
+      "id": "flow-homogenization-enables-a-massively-parallel-fluidic-design-for-high-through",
+      "title": "Flow Homogenization Enables a Massively Parallel Fluidic Design for High‐Throughput and Multiplexed Cell Isolation",
+      "authors": "C Ooi, CM Earhart, CE Hughes, JR Lee, DJ Wong, RJ Wilson, R Rohatgi, ...",
+      "publication": "Advanced materials technologies 5 (5), 1900960, 2020",
+      "year": "2020",
+      "citations": 2,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:pyW8ca7W8N0C"
+    },
+    {
+      "id": "high-throughput-flow-cytometry-assay-to-investigate-tdp43-splicing-function",
+      "title": "High-throughput flow cytometry assay to investigate TDP43 splicing function",
+      "authors": "HB Schmidt, R Rohatgi",
+      "publication": "Bio-protocol 10 (8), e3594-e3594, 2020",
+      "year": "2020",
+      "citations": 6,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:bFI3QPDXJZMC"
+    },
+    {
+      "id": "lasonolide-a-is-a-prodrug-activated-by-ldah-a-serine-hydrolase",
+      "title": "Lasonolide A is a Prodrug Activated by LDAH, a Serine Hydrolase",
+      "authors": "D Trauner, BS Matsuura",
+      "publication": "Synfacts 16 (04), 0468, 2020",
+      "year": "2020",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:8AbLer7MMksC"
+    },
+    {
+      "id": "tdp-43-helical-structure-tunes-liquid-liquid-phase-separation-and-function",
+      "title": "TDP-43 α-helical structure tunes liquid–liquid phase separation and function",
+      "authors": "AE Conicella, GL Dignon, GH Zerze, HB Schmidt, AM D’Ordine, YC Kim, ...",
+      "publication": "Proceedings of the National Academy of Sciences 117 (11), 5883-5894, 2020",
+      "year": "2020",
+      "citations": 437,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:SeFeTyx0c_EC"
+    },
+    {
+      "id": "alpha-helical-structure-in-tdp-43-tunes-liquid-liquid-phase-separation-and-cellu",
+      "title": "Alpha-Helical Structure in TDP-43 Tunes Liquid-liquid Phase Separation and Cellular Function",
+      "authors": "AE Conicella, G Dignon, GH Zerze, B Schmidt, AM D'Ordine, Y Kim, ...",
+      "publication": "Biophysical Journal 118 (3), 5a-6a, 2020",
+      "year": "2020",
+      "citations": 2,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:D03iK_w7-QYC"
+    },
+    {
+      "id": "lipid-droplets-can-promote-drug-accumulation-and-activation",
+      "title": "Lipid droplets can promote drug accumulation and activation",
+      "authors": "R Dubey, CE Stivala, HQ Nguyen, YH Goo, A Paul, JE Carette, BM Trost, ...",
+      "publication": "Nature chemical biology 16 (2), 206-213, 2020",
+      "year": "2020",
+      "citations": 71,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:cFHS6HbyZ2cC"
+    },
+    {
+      "id": "cholesterol-accessibility-at-the-ciliary-membrane-controls-hedgehog-signaling",
+      "title": "Cholesterol accessibility at the ciliary membrane controls hedgehog signaling",
+      "authors": "M Kinnebrew, EJ Iverson, BB Patel, GV Pusapati, JH Kong, KA Johnson, ...",
+      "publication": "Elife 8, e50051, 2019",
+      "year": "2019",
+      "citations": 158,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:fPk4N6BV_jEC"
+    },
+    {
+      "id": "phase-separation-deficient-tdp43-remains-functional-in-splicing",
+      "title": "Phase separation-deficient TDP43 remains functional in splicing",
+      "authors": "HB Schmidt, A Barreau, R Rohatgi",
+      "publication": "Nature communications 10 (1), 4890, 2019",
+      "year": "2019",
+      "citations": 208,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:u_35RYKgDlwC"
+    },
+    {
+      "id": "the-morphogen-sonic-hedgehog-inhibits-its-receptor-patched-by-a-pincer-grasp-mec",
+      "title": "The morphogen Sonic hedgehog inhibits its receptor Patched by a pincer grasp mechanism",
+      "authors": "AF Rudolf, M Kinnebrew, C Kowatsch, TB Ansell, K El Omari, B Bishop, ...",
+      "publication": "Nature chemical biology 15 (10), 975-982, 2019",
+      "year": "2019",
+      "citations": 89,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:zA6iFVUQeVQC"
+    },
+    {
+      "id": "structures-of-vertebrate-patched-and-smoothened-reveal-intimate-links-between-ch",
+      "title": "Structures of vertebrate Patched and Smoothened reveal intimate links between cholesterol and Hedgehog signalling",
+      "authors": "C Kowatsch, RE Woolley, M Kinnebrew, R Rohatgi, C Siebold",
+      "publication": "Current opinion in structural biology 57, 204-214, 2019",
+      "year": "2019",
+      "citations": 69,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:ZHo1McVdvXMC"
+    },
+    {
+      "id": "sphingomyelin-suppresses-hedgehog-signaling-by-restricting-cholesterol-accessibi",
+      "title": "Sphingomyelin suppresses Hedgehog signaling by restricting cholesterol accessibility at the ciliary membrane",
+      "authors": "M Kinnebrew, EJ Iverson, BB Patel, GV Pusapati, JH Kong, KA Johnson, ...",
+      "publication": "bioRxiv, 699819, 2019",
+      "year": "2019",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:rO6llkc54NcC"
+    },
+    {
+      "id": "mechanism-physiological-and-therapeutic-implications-of-lgr-independent-potentia",
+      "title": "Mechanism, physiological and therapeutic implications of LGR-independent potentiation of WNT signaling by R-spondins",
+      "authors": "AM Lebensohn, R Rohatgi",
+      "publication": "Cancer Research 79 (13_Supplement), 3445-3445, 2019",
+      "year": "2019",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:3s1wT3WcHBgC"
+    },
+    {
+      "id": "erratum-dynamic-remodeling-of-membrane-composition-drives-cell-cycle-through-pri",
+      "title": "Erratum: Dynamic Remodeling of Membrane Composition Drives Cell Cycle through Primary Cilia Excision (Cell (2017) 168 1-2 (264-279. e15) PII: S0092-8674 (19) 30678-6)",
+      "authors": "SC Phua, S Chiba, M Suzuki, E Su, EC Roberson, GV Pusapati, ...",
+      "publication": "Cell 178 (1), 261, 2019",
+      "year": "2019",
+      "citations": 2,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:EUQCXRtRnyEC"
+    },
+    {
+      "id": "biochemical-mechanisms-of-vertebrate-hedgehog-signaling",
+      "title": "Biochemical mechanisms of vertebrate hedgehog signaling",
+      "authors": "JH Kong, C Siebold, R Rohatgi",
+      "publication": "Development 146 (10), dev166892, 2019",
+      "year": "2019",
+      "citations": 285,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:HoB7MX3m0LUC"
+    },
+    {
+      "id": "cholesterol-interaction-sites-on-the-transmembrane-domain-of-the-hedgehog-signal",
+      "title": "Cholesterol interaction sites on the transmembrane domain of the hedgehog signal transducer and class FG protein-coupled receptor smoothened",
+      "authors": "G Hedger, H Koldsø, M Chavent, C Siebold, R Rohatgi, MSP Sansom",
+      "publication": "Structure 27 (3), 549-559. e2, 2019",
+      "year": "2019",
+      "citations": 105,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:35N4QoGY0k4C"
+    },
+    {
+      "id": "decoding-and-recoding-phase-behavior-of-tdp43-reveals-that-phase-separation-is-n",
+      "title": "Decoding and recoding phase behavior of TDP43 reveals that phase separation is not required for splicing function",
+      "authors": "HB Schmidt, A Barreau, R Rohatgi",
+      "publication": "bioRxiv, 548339, 2019",
+      "year": "2019",
+      "citations": 2,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:pqnbT2bcN3wC"
+    },
+    {
+      "id": "discovery-of-gene-regulatory-elements-through-a-new-bioinformatics-analysis-of-h",
+      "title": "Discovery of gene regulatory elements through a new bioinformatics analysis of haploid genetic screens",
+      "authors": "BB Patel, AM Lebensohn, GV Pusapati, JE Carette, J Salzman, R Rohatgi",
+      "publication": "Plos one 14 (1), e0198463, 2019",
+      "year": "2019",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:lSLTfruPkqcC"
+    },
+    {
+      "id": "mechanisms-and-physiological-implications-of-lgr-dependent-and-lgr-independent-p",
+      "title": "Mechanisms and physiological implications of LGR-dependent and LGR-independent potentiation of WNT signaling by R-spondins.",
+      "authors": "AM Lebensohn, R Rohatgi",
+      "publication": "MOLECULAR BIOLOGY OF THE CELL 29 (26), 2018",
+      "year": "2018",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:a0OBvERweLwC"
+    },
+    {
+      "id": "bile-acid-biosynthesis-avoiding-cholesterol",
+      "title": "Bile Acid Biosynthesis Avoiding Cholesterol",
+      "authors": "HU Marschall, PE Clayton, PJ Crick, Y Wang, J Sjövall, I Björkhem, ...",
+      "publication": "(No Title), 2018",
+      "year": "2018",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:mvPsJ3kp5DgC"
+    },
+    {
+      "id": "bile-acid-biosynthesis-avoiding-cholesterol",
+      "title": "Bile acid biosynthesis avoiding cholesterol",
+      "authors": "WJ Griffiths, J Abdel-Khalik, PJ Crick, E Yutuc, M Ogundare, BW Bigger, ...",
+      "publication": "bioRxiv, 385419, 2018",
+      "year": "2018",
+      "citations": 2,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:70eg2SAEIzsC"
+    },
+    {
+      "id": "spatiotemporal-manipulation-of-ciliary-glutamylation-reveals-its-roles-in-intrac",
+      "title": "Spatiotemporal manipulation of ciliary glutamylation reveals its roles in intraciliary trafficking and Hedgehog signaling",
+      "authors": "SR Hong, CL Wang, YS Huang, YC Chang, YC Chang, GV Pusapati, ...",
+      "publication": "Nature communications 9 (1), 1732, 2018",
+      "year": "2018",
+      "citations": 92,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:RYcK_YlVTxYC"
+    },
+    {
+      "id": "multiple-ligand-binding-sites-regulate-the-hedgehog-signal-transducer-smoothened",
+      "title": "Multiple ligand binding sites regulate the Hedgehog signal transducer Smoothened in vertebrates",
+      "authors": "EFX Byrne, G Luchetti, R Rohatgi, C Siebold",
+      "publication": "Current opinion in cell biology 51, 81-88, 2018",
+      "year": "2018",
+      "citations": 80,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:BqipwSGYUEgC"
+    },
+    {
+      "id": "a-single-n-terminal-phosphomimic-disrupts-tdp-43-polymerization-phase-separation",
+      "title": "A single N‐terminal phosphomimic disrupts TDP‐43 polymerization, phase separation, and RNA splicing",
+      "authors": "A Wang, AE Conicella, HB Schmidt, EW Martin, SN Rhoads, AN Reeb, ...",
+      "publication": "The EMBO journal 37 (5), EMBJ201797452, 2018",
+      "year": "2018",
+      "citations": 525,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:J_g5lzvAfSwC"
+    },
+    {
+      "id": "r-spondins-can-potentiate-wnt-signaling-without-lgrs",
+      "title": "R-spondins can potentiate WNT signaling without LGRs",
+      "authors": "AM Lebensohn, R Rohatgi",
+      "publication": "Elife 7, e33126, 2018",
+      "year": "2018",
+      "citations": 167,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:RGFaLdJalmkC"
+    },
+    {
+      "id": "g-protein-coupled-receptors-control-the-sensitivity-of-cells-to-the-morphogen-so",
+      "title": "G protein–coupled receptors control the sensitivity of cells to the morphogen Sonic Hedgehog",
+      "authors": "GV Pusapati, JH Kong, BB Patel, M Gouti, A Sagner, R Sircar, G Luchetti, ...",
+      "publication": "Science signaling 11 (516), eaao5749, 2018",
+      "year": "2018",
+      "citations": 81,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:ns9cj8rnVeAC"
+    },
+    {
+      "id": "crispr-screens-uncover-genes-that-regulate-target-cell-sensitivity-to-the-morpho",
+      "title": "CRISPR screens uncover genes that regulate target cell sensitivity to the morphogen sonic hedgehog",
+      "authors": "GV Pusapati, JH Kong, BB Patel, A Krishnan, A Sagner, M Kinnebrew, ...",
+      "publication": "Developmental cell 44 (1), 113-129. e8, 2018",
+      "year": "2018",
+      "citations": 174,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:GnPB-g6toBAC"
+    },
+    {
+      "id": "r-spondins-can-potentiate-wnt-signaling-without-lgr-receptors",
+      "title": "R-spondins can potentiate WNT signaling without LGR receptors",
+      "authors": "AM Lebensohn, R Rohatgi",
+      "publication": "bioRxiv, 198572, 2017",
+      "year": "2017",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:hMod-77fHWUC"
+    },
+    {
+      "id": "dynamic-remodeling-of-membrane-composition-drives-cell-cycle-through-primary-cil",
+      "title": "Dynamic remodeling of membrane composition drives cell cycle through primary cilia excision",
+      "authors": "SC Phua, S Chiba, M Suzuki, E Su, EC Roberson, GV Pusapati, M Setou, ...",
+      "publication": "Cell 168 (1), 264-279. e15, 2017",
+      "year": "2017",
+      "citations": 419,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:k_IJM867U9cC"
+    },
+    {
+      "id": "comparative-genetic-screens-in-human-cells-reveal-new-regulatory-mechanisms-in-w",
+      "title": "Comparative genetic screens in human cells reveal new regulatory mechanisms in WNT signaling",
+      "authors": "AM Lebensohn, R Dubey, LR Neitzel, O Tacchelly-Benites, E Yang, ...",
+      "publication": "Elife 5, e21459, 2016",
+      "year": "2016",
+      "citations": 66,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:isC4tDSrTZIC"
+    },
+    {
+      "id": "cholesterol-activates-the-g-protein-coupled-receptor-smoothened-to-promote-hedge",
+      "title": "Cholesterol activates the G-protein coupled receptor Smoothened to promote Hedgehog signaling",
+      "authors": "G Luchetti, R Sircar, JH Kong, S Nachtergaele, A Sagner, EFX Byrne, ...",
+      "publication": "Elife 5, e20304, 2016",
+      "year": "2016",
+      "citations": 285,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:TFP_iSt0sucC"
+    },
+    {
+      "id": "chromatin-remodeling-complex-swi-snf-controls-multidrug-resistance-by-transcript",
+      "title": "Chromatin-remodeling complex SWI/SNF controls multidrug resistance by transcriptionally regulating the drug efflux pump ABCB1",
+      "authors": "R Dubey, AM Lebensohn, Z Bahrami-Nejad, C Marceau, M Champion, ...",
+      "publication": "Cancer research 76 (19), 5810-5821, 2016",
+      "year": "2016",
+      "citations": 51,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:iH-uZ7U-co4C"
+    },
+    {
+      "id": "in-vivo-formation-of-vacuolated-multi-phase-compartments-lacking-membranes",
+      "title": "In vivo formation of vacuolated multi-phase compartments lacking membranes",
+      "authors": "HB Schmidt, R Rohatgi",
+      "publication": "Cell reports 16 (5), 1228-1236, 2016",
+      "year": "2016",
+      "citations": 206,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:r0BpntZqJG4C"
+    },
+    {
+      "id": "structural-basis-of-smoothened-regulation-by-its-extracellular-domains",
+      "title": "Structural basis of Smoothened regulation by its extracellular domains",
+      "authors": "EFX Byrne, R Sircar, PS Miller, G Hedger, G Luchetti, S Nachtergaele, ...",
+      "publication": "Nature 535 (7613), 517-522, 2016",
+      "year": "2016",
+      "citations": 423,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:j3f4tGmQtD8C"
+    },
+    {
+      "id": "structural-basis-for-smoothened-regulation-by-its-extracellular-domains",
+      "title": "Structural basis for Smoothened regulation by its extracellular domains",
+      "authors": "C Siebold, E Byrne, P Miller, M Sansom, G Hedger, S Newstead, R Sircar, ...",
+      "publication": "Nature 535, 2016",
+      "year": "2016",
+      "citations": 2,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:g5m5HwL7SMYC"
+    },
+    {
+      "id": "an-essential-role-for-grk2-in-hedgehog-signalling-downstream-of-smoothened",
+      "title": "An essential role for Grk2 in Hedgehog signalling downstream of Smoothened",
+      "authors": "Z Zhao, RTH Lee, GV Pusapati, A Iyu, R Rohatgi, PW Ingham",
+      "publication": "The EMBO Reports 17 (5), 739-752, 2016",
+      "year": "2016",
+      "citations": 62,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:RHpTSmoSYBkC"
+    },
+    {
+      "id": "abstract-pr05-systematic-forward-genetic-screens-in-haploid-human-cells-reveal-n",
+      "title": "Abstract PR05: Systematic forward genetic screens in haploid human cells reveal new players and regulatory mechanisms in Wnt signaling",
+      "authors": "AM Lebensohn, R Dubey, LR Neitzel, O Tacchelly, CD Marceau, ...",
+      "publication": "Molecular Cancer Research 14 (4_Supplement), PR05-PR05, 2016",
+      "year": "2016",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:4JMBOYKVnBMC"
+    },
+    {
+      "id": "comparative-forward-genetic-screens-in-haploid-human-cells-reveal-new-regulatory",
+      "title": "Comparative forward genetic screens in haploid human cells reveal new regulatory mechanisms in WNT signaling.",
+      "authors": "AM Lebensohn, R Dubey, LR Neitzel, O Tacchelly-Benites, E Yang, ...",
+      "publication": "MOLECULAR BIOLOGY OF THE CELL 27, 2016",
+      "year": "2016",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:M3NEmzRMIkIC"
+    },
+    {
+      "id": "functional-divergence-in-the-role-of-n-linked-glycosylation-in-smoothened-signal",
+      "title": "Functional divergence in the role of N-linked glycosylation in smoothened signaling",
+      "authors": "S Marada, G Navarro, A Truong, DP Stewart, AM Arensdorf, ...",
+      "publication": "PLoS genetics 11 (8), e1005473, 2015",
+      "year": "2015",
+      "citations": 55,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:e5wmG9Sq2KIC"
+    },
+    {
+      "id": "notch-activity-modulates-the-responsiveness-of-neural-progenitors-to-sonic-hedge",
+      "title": "Notch activity modulates the responsiveness of neural progenitors to sonic hedgehog signaling",
+      "authors": "JH Kong, L Yang, E Dessaud, K Chuang, DM Moore, R Rohatgi, J Briscoe, ...",
+      "publication": "Developmental cell 33 (4), 373-387, 2015",
+      "year": "2015",
+      "citations": 164,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:hFOr9nPyWt4C"
+    },
+    {
+      "id": "measuring-expression-levels-of-endogenous-gli-genes-by-immunoblotting-and-real-t",
+      "title": "Measuring Expression Levels of Endogenous Gli Genes by Immunoblotting and Real-Time PCR",
+      "authors": "P Niewiadomski, R Rohatgi",
+      "publication": "Hedgehog Signaling Protocols, 81-92, 2015",
+      "year": "2015",
+      "citations": 14,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:R3hNpaxXUhUC"
+    },
+    {
+      "id": "rapid-screening-of-gli2-3-mutants-using-the-flp-in-system",
+      "title": "Rapid Screening of Gli2/3 Mutants Using the Flp-In System",
+      "authors": "P Niewiadomski, R Rohatgi",
+      "publication": "Hedgehog Signaling Protocols, 125-130, 2015",
+      "year": "2015",
+      "citations": 4,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:TQgYirikUcIC"
+    },
+    {
+      "id": "measuring-gli2-phosphorylation-by-selected-reaction-monitoring-mass-spectrometry",
+      "title": "Measuring Gli2 Phosphorylation by Selected Reaction Monitoring Mass Spectrometry",
+      "authors": "R Ahrends, P Niewiadomski, MN Teruel, R Rohatgi",
+      "publication": "Hedgehog Signaling Protocols, 105-123, 2015",
+      "year": "2015",
+      "citations": 1,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:HDshCWvjkbEC"
+    },
+    {
+      "id": "location-location-and-location-compartmentalization-of-hedgehog-signaling-at-pri",
+      "title": "Location, location, and location: compartmentalization of Hedgehog signaling at primary cilia",
+      "authors": "GV Pusapati, R Rohatgi",
+      "publication": "The EMBO journal 33 (17), 1852-1854, 2014",
+      "year": "2014",
+      "citations": 13,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:IWHjjKOFINEC"
+    },
+    {
+      "id": "frontiers-in-hedgehog-signal-transduction",
+      "title": "Frontiers in hedgehog signal transduction",
+      "authors": "I Guerrero, R Rohatgi",
+      "publication": "Seminars in cell & developmental biology 33, 50-51, 2014",
+      "year": "2014",
+      "citations": 1,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:ZeXyd9-uunAC"
+    },
+    {
+      "id": "g-protein-coupled-receptors-hedgehog-signaling-and-primary-cilia",
+      "title": "G-protein-coupled receptors, Hedgehog signaling and primary cilia",
+      "authors": "S Mukhopadhyay, R Rohatgi",
+      "publication": "Seminars in cell & developmental biology 33, 63-72, 2014",
+      "year": "2014",
+      "citations": 175,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:L8Ckcad2t8MC"
+    },
+    {
+      "id": "a-novel-osteogenic-oxysterol-compound-for-therapeutic-development-to-promote-bon",
+      "title": "A novel osteogenic oxysterol compound for therapeutic development to promote bone growth: activation of hedgehog signaling and osteogenesis through smoothened binding",
+      "authors": "SR Montgomery, T Nargizyan, V Meliton, S Nachtergaele, R Rohatgi, ...",
+      "publication": "Journal of Bone and Mineral Research 29 (8), 1872-1885, 2014",
+      "year": "2014",
+      "citations": 88,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:QIV2ME_5wuYC"
+    },
+    {
+      "id": "tracking-the-subcellular-fate-of-20-s-hydroxycholesterol-with-click-chemistry-re",
+      "title": "Tracking the subcellular fate of 20 (s)-hydroxycholesterol with click chemistry reveals a transport pathway to the Golgi",
+      "authors": "SM Peyrot, S Nachtergaele, G Luchetti, LK Mydock-McGrane, H Fujiwara, ...",
+      "publication": "Journal of Biological Chemistry 289 (16), 11095-11110, 2014",
+      "year": "2014",
+      "citations": 27,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:9ZlFYXVOiuMC"
+    },
+    {
+      "id": "efcab7-and-iqce-regulate-hedgehog-signaling-by-tethering-the-evc-evc2-complex-to",
+      "title": "EFCAB7 and IQCE regulate hedgehog signaling by tethering the EVC-EVC2 complex to the base of primary cilia",
+      "authors": "GV Pusapati, CE Hughes, KV Dorn, D Zhang, P Sugianto, L Aravind, ...",
+      "publication": "Developmental cell 28 (5), 483-496, 2014",
+      "year": "2014",
+      "citations": 112,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:dhFuZR0502QC"
+    },
+    {
+      "id": "gli-protein-activity-is-controlled-by-multisite-phosphorylation-in-vertebrate-he",
+      "title": "Gli protein activity is controlled by multisite phosphorylation in vertebrate Hedgehog signaling",
+      "authors": "P Niewiadomski, JH Kong, R Ahrends, Y Ma, EW Humke, S Khan, ...",
+      "publication": "Cell reports 6 (1), 168-181, 2014",
+      "year": "2014",
+      "citations": 316,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:mVmsd5A6BfQC"
+    },
+    {
+      "id": "isolation-and-mutational-analysis-of-circulating-tumor-cells-from-lung-cancer-pa",
+      "title": "Isolation and mutational analysis of circulating tumor cells from lung cancer patients with magnetic sifters and biochips",
+      "authors": "CM Earhart, CE Hughes, RS Gaster, CC Ooi, RJ Wilson, LY Zhou, ...",
+      "publication": "Lab on a Chip 14 (1), 78-88, 2014",
+      "year": "2014",
+      "citations": 212,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:aqlVkmm33-oC"
+    },
+    {
+      "id": "structure-and-function-of-the-smoothened-extracellular-domain-in-vertebrate-hedg",
+      "title": "Structure and function of the Smoothened extracellular domain in vertebrate Hedgehog signaling",
+      "authors": "S Nachtergaele, DM Whalen, LK Mydock, Z Zhao, T Malinauskas, ...",
+      "publication": "Elife 2, e01340, 2013",
+      "year": "2013",
+      "citations": 205,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:Wp0gIr-vW9MC"
+    },
+    {
+      "id": "cancer-risk-after-use-of-recombinant-bone-morphogenetic-protein-2-for-spinal-art",
+      "title": "Cancer risk after use of recombinant bone morphogenetic protein-2 for spinal arthrodesis",
+      "authors": "EJ Carragee, G Chu, R Rohatgi, EL Hurwitz, BK Weiner, ST Yoon, ...",
+      "publication": "JBJS 95 (17), 1537-1545, 2013",
+      "year": "2013",
+      "citations": 321,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:blknAaTinKkC"
+    },
+    {
+      "id": "chemically-inducible-diffusion-trap-at-cilia-reveals-molecular-sieve-like-barrie",
+      "title": "Chemically inducible diffusion trap at cilia reveals molecular sieve–like barrier",
+      "authors": "YC Lin, P Niewiadomski, B Lin, H Nakamura, SC Phua, J Jiao, ...",
+      "publication": "Nature chemical biology 9 (7), 437-443, 2013",
+      "year": "2013",
+      "citations": 158,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:3fE2CSJIrl8C"
+    },
+    {
+      "id": "abstract-pr03-genome-wide-screens-for-wnt-signaling-in-human-haploid-cells",
+      "title": "Abstract PR03: Genome-wide screens for Wnt signaling in human haploid cells",
+      "authors": "A Lebensohn, C Hughes, C Marceau, R Rohatgi, J Carette",
+      "publication": "Molecular Cancer Therapeutics 12 (5_Supplement), PR03-PR03, 2013",
+      "year": "2013",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:7PzlFSSx8tAC"
+    },
+    {
+      "id": "illuminating-passive-permeability-barrier-of-primary-cilia-using-novel-diffusion",
+      "title": "Illuminating Passive Permeability Barrier of Primary Cilia using Novel Diffusion Trap Technique",
+      "authors": "T Inoue, YC Lin, B Lin, SC Phua, J Jiao, A Levchenko, P Niewiadomski, ...",
+      "publication": "Biophysical Journal 104 (2), 31a-32a, 2013",
+      "year": "2013",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:5nxA0vEk-isC"
+    },
+    {
+      "id": "structure-and-function-of-the-smoothened-extracellular-domain-in-vertebrate-hedg",
+      "title": "Structure and function of the smoothened extracellular domain in vertebrate hedgehog signaling",
+      "authors": "R Rohatgi, S Nachtergaele, DM Whalen, LK Mydock, Z Zhao, ...",
+      "publication": "",
+      "year": "2013",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:l7t_Zn2s7bgC"
+    },
+    {
+      "id": "the-mechanism-of-smoothened-regulation-by-oxysterols-in-vertebrate-hedgehog-sign",
+      "title": "The mechanism of Smoothened regulation by oxysterols in vertebrate Hedgehog signaling",
+      "authors": "S Nachtergaele, D Whalen, LK Mydock, DF Covey, C Siebold, R Rohatgi",
+      "publication": "MOLECULAR BIOLOGY OF THE CELL 24, 2013",
+      "year": "2013",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:mB3voiENLucC"
+    },
+    {
+      "id": "a-smoothened-evc2-complex-transduces-the-hedgehog-signal-at-primary-cilia",
+      "title": "A Smoothened-Evc2 complex transduces the Hedgehog signal at primary cilia",
+      "authors": "KV Dorn, CE Hughes, R Rohatgi",
+      "publication": "Developmental cell 23 (4), 823-835, 2012",
+      "year": "2012",
+      "citations": 222,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:Se3iqnhoufwC"
+    },
+    {
+      "id": "singapore-signalling-the-2012-hedgehog-pathway-cocktail",
+      "title": "Singapore signalling: the 2012 hedgehog pathway cocktail",
+      "authors": "J Briscoe, R Rohatgi",
+      "publication": "EMBO reports 13 (7), 580, 2012",
+      "year": "2012",
+      "citations": 1,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:UebtZRa9Y70C"
+    },
+    {
+      "id": "oxysterols-are-allosteric-activators-of-the-oncoprotein-smoothened",
+      "title": "Oxysterols are allosteric activators of the oncoprotein Smoothened",
+      "authors": "S Nachtergaele, LK Mydock, K Krishnan, J Rammohan, PH Schlesinger, ...",
+      "publication": "Nature chemical biology 8 (2), 211-220, 2012",
+      "year": "2012",
+      "citations": 347,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:ufrVoPGSRksC"
+    },
+    {
+      "id": "abstract-lb-238-regulation-of-signaling-pathways-by-endogenous-small-molecules",
+      "title": "Abstract LB-238: Regulation of signaling pathways by endogenous small molecules",
+      "authors": "S Nachtergaele, L Mydock, K Krishnan, D Covey, R Rohatgi",
+      "publication": "Cancer Research 71 (8_Supplement), LB-238-LB-238, 2011",
+      "year": "2011",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:hC7cP41nSMkC"
+    },
+    {
+      "id": "cilia-2010-the-surprise-organelle-of-the-decade",
+      "title": "Cilia 2010: the surprise organelle of the decade",
+      "authors": "EF Smith, R Rohatgi",
+      "publication": "Science Signaling 4 (155), mr1-mr1, 2011",
+      "year": "2011",
+      "citations": 22,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:roLk4NBRz8UC"
+    },
+    {
+      "id": "the-ciliary-membrane",
+      "title": "The ciliary membrane",
+      "authors": "R Rohatgi, WJ Snell",
+      "publication": "Current opinion in cell biology 22 (4), 541-546, 2010",
+      "year": "2010",
+      "citations": 248,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:eQOLeE2rZwMC"
+    },
+    {
+      "id": "role-of-lipid-metabolism-in-smoothened-derepression-in-hedgehog-signaling",
+      "title": "Role of lipid metabolism in smoothened derepression in hedgehog signaling",
+      "authors": "A Yavari, R Nagaraj, E Owusu-Ansah, A Folick, K Ngo, T Hillman, G Call, ...",
+      "publication": "Developmental cell 19 (1), 54-65, 2010",
+      "year": "2010",
+      "citations": 126,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:WF5omc3nYNoC"
+    },
+    {
+      "id": "the-output-of-hedgehog-signaling-is-controlled-by-the-dynamic-association-betwee",
+      "title": "The output of Hedgehog signaling is controlled by the dynamic association between Suppressor of Fused and the Gli proteins",
+      "authors": "EW Humke, KV Dorn, L Milenkovic, MP Scott, R Rohatgi",
+      "publication": "Genes & development 24 (7), 670-682, 2010",
+      "year": "2010",
+      "citations": 575,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:W7OEmFMy1HYC"
+    },
+    {
+      "id": "lateral-transport-of-smoothened-from-the-plasma-membrane-to-the-membrane-of-the-",
+      "title": "Lateral transport of Smoothened from the plasma membrane to the membrane of the cilium",
+      "authors": "L Milenkovic, MP Scott, R Rohatgi",
+      "publication": "Journal of Cell Biology 187 (3), 365-374, 2009",
+      "year": "2009",
+      "citations": 337,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:YsMSGLbcyi4C"
+    },
+    {
+      "id": "the-hedgehog-signaling-pathway-in-lung-cancer-moving-beyond-inhibition-of-cell-g",
+      "title": "The Hedgehog signaling pathway in lung cancer: moving beyond inhibition of cell growth",
+      "authors": "R Rohatgi",
+      "publication": "JOURNAL OF THORACIC ONCOLOGY 4 (9), S82-S82, 2009",
+      "year": "2009",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:4TOpqqG69KYC"
+    },
+    {
+      "id": "s02-04-communicating-with-hedgehogs-signaling-in-development-and-disease",
+      "title": "S02-04 Communicating with Hedgehogs: Signaling in development and disease",
+      "authors": "M Scott, R Rohatgi, L Milenkovic, E Lee, R Corcoran, M Barakat, E Humke",
+      "publication": "Mechanisms of Development 126, S26-S27, 2009",
+      "year": "2009",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:hqOjcs7Dif8C"
+    },
+    {
+      "id": "hedgehog-signal-transduction-by-smoothened-pharmacologic-evidence-for-a-2-step-a",
+      "title": "Hedgehog signal transduction by Smoothened: pharmacologic evidence for a 2-step activation process",
+      "authors": "R Rohatgi, L Milenkovic, RB Corcoran, MP Scott",
+      "publication": "Proceedings of the National Academy of Sciences 106 (9), 3196-3201, 2009",
+      "year": "2009",
+      "citations": 370,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:Y0pCki6q_DkC"
+    },
+    {
+      "id": "arrestin-movement-in-cilia",
+      "title": "Arrestin'movement in cilia",
+      "authors": "R Rohatgi, MP Scott",
+      "publication": "Science 320 (5884), 1726-1727, 2008",
+      "year": "2008",
+      "citations": 20,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:LkGwnXOMwfcC"
+    },
+    {
+      "id": "patching-the-gaps-in-hedgehog-signalling",
+      "title": "Patching the gaps in Hedgehog signalling",
+      "authors": "R Rohatgi, MP Scott",
+      "publication": "Nature cell biology 9 (9), 1005-1009, 2007",
+      "year": "2007",
+      "citations": 265,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+      "id": "cell-biology-select",
+      "title": "Cell Biology Select",
+      "authors": "R Rohatgi",
+      "publication": "Cell 130, 2007",
+      "year": "2007",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:4DMP91E08xMC"
+    },
+    {
+      "id": "patched1-regulates-hedgehog-signaling-at-the-primary-cilium",
+      "title": "Patched1 regulates hedgehog signaling at the primary cilium",
+      "authors": "R Rohatgi, L Milenkovic, MP Scott",
+      "publication": "Science 317 (5836), 372-376, 2007",
+      "year": "2007",
+      "citations": 1793,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:9yKSN-GCB0IC"
+    },
+    {
+      "id": "in-vitro-reconstitution-of-cdc42-mediated-actin-assembly-using-purified-componen",
+      "title": "In vitro reconstitution of cdc42‐mediated actin assembly using purified components",
+      "authors": "HYH Ho, R Rohatgi, AM Lebensohn, MW Kirschner",
+      "publication": "Methods in enzymology 406, 174-190, 2006",
+      "year": "2006",
+      "citations": 16,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:_FxGoFyzp5QC"
+    },
+    {
+      "id": "toca-1-mediates-cdc42-dependent-actin-nucleation-by-activating-the-n-wasp-wip-co",
+      "title": "Toca-1 mediates Cdc42-dependent actin nucleation by activating the N-WASP-WIP complex",
+      "authors": "HYH Ho, R Rohatgi, AM Lebensohn, L Ma, J Li, SP Gygi, MW Kirschner",
+      "publication": "Cell 118 (2), 203-216, 2004",
+      "year": "2004",
+      "citations": 550,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:qjMakFHDy7sC"
+    },
+    {
+      "id": "loss-of-function-analysis-of-epha-receptors-in-retinotectal-mapping",
+      "title": "Loss-of-function analysis of EphA receptors in retinotectal mapping",
+      "authors": "DA Feldheim, M Nakamoto, M Osterfield, NW Gale, TM DeChiara, ...",
+      "publication": "Journal of Neuroscience 24 (10), 2542-2550, 2004",
+      "year": "2004",
+      "citations": 183,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:NMxIlDl6LWMC"
+    },
+    {
+      "id": "loss-of-functionanalysisofephareceptorsin-retinotectalmapping",
+      "title": "Loss-of-FunctionAnalysisofEphAReceptorsin RetinotectalMapping",
+      "authors": "DA Feldheim, M Nakamoto, M Osterfield, NW Gale, TM DeChiara, ...",
+      "publication": "",
+      "year": "2004",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:M05iB0D1s5AC"
+    },
+    {
+      "id": "mechanism-of-regulation-of-wave1-induced-actin-nucleation-by-rac1-and-nck",
+      "title": "Mechanism of regulation of WAVE1-induced actin nucleation by Rac1 and Nck",
+      "authors": "S Eden, R Rohatgi, AV Podtelejnikov, M Mann, MW Kirschner",
+      "publication": "Nature 418 (6899), 790-793, 2002",
+      "year": "2002",
+      "citations": 1166,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:u-x6o8ySG0sC"
+    },
+    {
+      "id": "biochemical-dissection-of-a-signaling-pathway-that-controls-actin-assembly",
+      "title": "Biochemical dissection of a signaling pathway that controls actin assembly",
+      "authors": "R Rohatgi",
+      "publication": "Harvard University, 2002",
+      "year": "2002",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:maZDTaKrznsC"
+    },
+    {
+      "id": "a-wave1-complex-mediates-actin-nucleation-by-rac1-and-nck",
+      "title": "A WAVE1-complex mediates actin nucleation by Rac1 and NCK",
+      "authors": "S Eden, R Rohatgi, AV Podtelejnikov, M Mann, MW Kirschner",
+      "publication": "MOLECULAR BIOLOGY OF THE CELL 12, 396A-396A, 2001",
+      "year": "2001",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:ULOm3_A8WrAC"
+    },
+    {
+      "id": "cr16-forms-a-complex-with-n-wasp-in-brain-and-is-a-novel-member-of-a-conserved-p",
+      "title": "CR16 forms a complex with N-WASP in brain and is a novel member of a conserved proline-rich actin-binding protein family",
+      "authors": "HYH Ho, R Rohatgi, L Ma, MW Kirschner",
+      "publication": "Proceedings of the National Academy of Sciences 98 (20), 11306-11311, 2001",
+      "year": "2001",
+      "citations": 143,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:Tyk-4Ss8FVUC"
+    },
+    {
+      "id": "nck-and-phosphatidylinositol-4-5-bisphosphate-synergistically-activate-actin-pol",
+      "title": "Nck and phosphatidylinositol 4, 5-bisphosphate synergistically activate actin polymerization through the N-WASP-Arp2/3 pathway",
+      "authors": "R Rohatgi, P Nollau, HYH Ho, MW Kirschner, BJ Mayer",
+      "publication": "Journal of Biological Chemistry 276 (28), 26448-26452, 2001",
+      "year": "2001",
+      "citations": 539,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:2osOgNQ5qMEC"
+    },
+    {
+      "id": "wip-regulates-n-wasp-mediated-actin-polymerization-and-filopodium-formation",
+      "title": "WIP regulates N-WASP-mediated actin polymerization and filopodium formation",
+      "authors": "N Martinez-Quiles, R Rohatgi, IM Antón, M Medina, SP Saville, H Miki, ...",
+      "publication": "Nature cell biology 3 (5), 484-491, 2001",
+      "year": "2001",
+      "citations": 370,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:UeHWp8X0CEIC"
+    },
+    {
+      "id": "mechanisms-of-signal-transduction-nck-and-phosphatidylinositol-4-5-bisphosphate-",
+      "title": "MECHANISMS OF SIGNAL TRANSDUCTION-Nck and phosphatidylinositol 4, 5-bisphosphate synergistically activate actin polymerization through the N-WASP-Arp2/3 pathway.",
+      "authors": "R Rohatgi, P Nollau, HYH Ho, MW Kirschner, BJ Mayer",
+      "publication": "Journal of Biological Chemistry 276 (28), 26448-26452, 2001",
+      "year": "2001",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:MXK_kJrjxJIC"
+    },
+    {
+      "id": "mechanism-of-n-wasp-activation-by-cdc42-and-pi-4-5-p2",
+      "title": "Mechanism of N-WASP activation by Cdc42 and PI (4, 5) P2",
+      "authors": "HYH Ho, R Rohatgi, MW Kirschner",
+      "publication": "MOLECULAR BIOLOGY OF THE CELL 11, 379A-379A, 2000",
+      "year": "2000",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:Zph67rFs4hoC"
+    },
+    {
+      "id": "mechanism-of-n-wasp-activation-by-cdc42-and-phosphatidylinositol-4-5-bisphosphat",
+      "title": "Mechanism of N-WASP activation by CDC42 and phosphatidylinositol 4, 5-bisphosphate",
+      "authors": "R Rohatgi, HH Ho, MW Kirschner",
+      "publication": "The Journal of cell biology 150 (6), 1299-1310, 2000",
+      "year": "2000",
+      "citations": 868,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:d1gkVwhDpl0C"
+    },
+    {
+      "id": "road-traffic-noise-characteristics-in-delhi-urban-area",
+      "title": "ROAD TRAFFIC NOISE CHARACTERISTICS IN DELHI URBAN AREA",
+      "authors": "PK SARKAR, R ROHATGI",
+      "publication": "URBAN TRANSPORTATION AND ENVIRONMENT. PROCEEDINGS OF THE INTERNATIONAL …, 2000",
+      "year": "2000",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:dTyEYWd-f8wC"
+    },
+    {
+      "id": "biochemical-purification-of-factors-that-mediate-cdc42-induced-actin-polymerizat",
+      "title": "Biochemical purification of factors that mediate Cdc42-induced actin polymerization",
+      "authors": "L Ma, R Rohatgi, MW Kirschner",
+      "publication": "MOLECULAR BIOLOGY OF THE CELL 10, 384A-384A, 1999",
+      "year": "1999",
+      "citations": 2,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:qxL8FJ1GzNcC"
+    },
+    {
+      "id": "n-wasp-activates-the-arp2-3-complex-and-links-cdc42-and-phosphoinositide-signals",
+      "title": "N-WASP activates the Arp2/3 complex and links Cdc42 and phosphoinositide signals to actin assembly.",
+      "authors": "R Rohatgi, L Ma, H Miki, M Lopez, T Kirchhausen, T Takenawa, ...",
+      "publication": "Molecular Biology of the Cell 10, 122A-122A, 1999",
+      "year": "1999",
+      "citations": 9,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:YOwf2qJgpHMC"
+    },
+    {
+      "id": "the-interaction-between-n-wasp-and-the-arp2-3-complex-links-cdc42-dependent-sign",
+      "title": "The interaction between N-WASP and the Arp2/3 complex links Cdc42-dependent signals to actin assembly",
+      "authors": "R Rohatgi, L Ma, H Miki, M Lopez, T Kirchhausen, T Takenawa, ...",
+      "publication": "Cell 97 (2), 221-231, 1999",
+      "year": "1999",
+      "citations": 1807,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:u5HHmVD_uO8C"
+    },
+    {
+      "id": "the-arp2-3-complex-mediates-actin-polymerization-induced-by-the-small-gtp-bindin",
+      "title": "The Arp2/3 complex mediates actin polymerization induced by the small GTP-binding protein Cdc42",
+      "authors": "LE Ma, R Rohatgi, MW Kirschner",
+      "publication": "Proceedings of the National Academy of Sciences 95 (26), 15362-15367, 1998",
+      "year": "1998",
+      "citations": 299,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:IjCSPb-OGe4C"
+    },
+    {
+      "id": "actin-polymerization-induced-by-the-small-gtp-binding-protein-cdc42-requires-the",
+      "title": "Actin polymerization induced by the small GTP-binding protein Cdc42 requires the Arp2/3 complex and additional factors",
+      "authors": "L Ma, R Rohatgi, M Kirschner",
+      "publication": "MOLECULAR BIOLOGY OF THE CELL 9, 131A-131A, 1998",
+      "year": "1998",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:kNdYIx-mwKoC"
+    },
+    {
+      "id": "nonenzymatic-template-directed-ligation-of-oligoribonucleotides-is-highly-regios",
+      "title": "Nonenzymatic, Template-Directed Ligation of Oligoribonucleotides Is Highly Regioselective for the Formation of 3 ‘− 5 ‘Phosphodiester Bonds",
+      "authors": "R Rohatgi, DP Bartel, JW Szostak",
+      "publication": "Journal of the American Chemical Society 118 (14), 3340-3344, 1996",
+      "year": "1996",
+      "citations": 165,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:M3ejUd6NZC8C"
+    },
+    {
+      "id": "kinetic-and-mechanistic-analysis-of-nonenzymatic-template-directed-oligoribonucl",
+      "title": "Kinetic and mechanistic analysis of nonenzymatic, template-directed oligoribonucleotide ligation",
+      "authors": "R Rohatgi, DP Bartel, JW Szostak",
+      "publication": "Journal of the American Chemical Society 118 (14), 3332-3339, 1996",
+      "year": "1996",
+      "citations": 160,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:_kc_bZDykSQC"
+    },
+    {
+      "id": "non-enzymatic-template-directed-ligation-reactions-of-ribo-oligonucleotides",
+      "title": "Non-enzymatic, template-directed ligation reactions of ribo-oligonucleotides",
+      "authors": "R Rohatgi",
+      "publication": "Harvard University, 1994",
+      "year": "1994",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:KlAtU1dfN6UC"
+    },
+    {
+      "id": "interpretation-of-fel-gain-and-magnetic-field-errors-on-the-sca-fel",
+      "title": "Interpretation of FEL gain and magnetic-field errors on the SCA/FEL",
+      "authors": "R Rohatgi, JC Frisch",
+      "publication": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 1990",
+      "year": "1990",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:wbdj-CoPYUoC"
+    },
+    {
+      "id": "status-of-the-sca-fel",
+      "title": "Status of the SCA-FEL",
+      "authors": "TI Smith, JC Frisch, R Rohatgi, HA Schwettman, RL Swent",
+      "publication": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 1990",
+      "year": "1990",
+      "citations": 30,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:J-pR_7NvFogC"
+    },
+    {
+      "id": "pulsed-wire-magnetic-field-measurements-on-a-4-3-m-long-wiggler",
+      "title": "Pulsed wire magnetic field measurements on a 4.3 m long wiggler",
+      "authors": "O Shahal, R Rohatgi",
+      "publication": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 1989",
+      "year": "1989",
+      "citations": 23,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:olpn-zPbct0C"
+    },
+    {
+      "id": "the-sca-fel-program-operation-in-the-infrared-visible-and-ultraviolet",
+      "title": "The SCA/FEL program: Operation in the infrared, visible and ultraviolet",
+      "authors": "R Rohatgi, HA Schwettman, TI Smith, RL Swent",
+      "publication": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 1988",
+      "year": "1988",
+      "citations": 12,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:kRWSkSYxWN8C"
+    },
+    {
+      "id": "visible-free-electron-laser-oscillator-constant-and-tapered-wiggler",
+      "title": "Visible free-electron-laser oscillator (constant and tapered wiggler)",
+      "authors": "JA Edighoffer, GR Neil, S Fornaca, HR Thompson Jr, TI Smith, ...",
+      "publication": "Appl. Phys. Lett.;(United States) 52 (19), 1988",
+      "year": "1988",
+      "citations": 21,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:XiVPGOgt02cC"
+    },
+    {
+      "id": "program-and-system-development-at-the-sca-fel",
+      "title": "Program and system development at the SCA/FEL",
+      "authors": "TI Smith, HA Schwettman, RL Swent, R Rohatgi, J Frisch",
+      "publication": "Tenth international free electron laser conference, kibbutz Ramat Rachel …, 1988",
+      "year": "1988",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:5ugPr518TE4C"
+    },
+    {
+      "id": "development-of-the-sca-fel-for-use-in-biomedical-and-materials-science-experimen",
+      "title": "Development of the SCA/FEL for use in biomedical and materials science experiments",
+      "authors": "TI Smith, HA Schwettman, R Rohatgi, Y Lapierre, J Edighoffer",
+      "publication": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 1987",
+      "year": "1987",
+      "citations": 92,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:V3AGJWp-ZtQC"
+    },
+    {
+      "id": "a-compact-energy-recovered-fel-for-biomedical-and-material-science-applications",
+      "title": "A compact energy recovered FEL for biomedical and material science applications",
+      "authors": "R Rohatgi, HA Schwettman, TI Smith",
+      "publication": "Proc. IEEE Particle Accelerator Conference, 1987",
+      "year": "1987",
+      "citations": 8,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:1qzjygNMrQYC"
+    },
+    {
+      "id": "supplemental-information-a-smoothened-evc2-complex-transduces-the-hedgehog-signa",
+      "title": "Supplemental Information A Smoothened-Evc2 Complex Transduces the Hedgehog Signal at Primary Cilia",
+      "authors": "KV Dorn, CE Hughes, R Rohatgi",
+      "publication": "",
+      "year": "",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:4OULZ7Gr8RgC"
+    }
+  ],
+  "updated": "2026-07-25T20:51:48Z"
 }
