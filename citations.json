@@ -1,7 +1,7 @@
 {
   "author": "Rajat Rohatgi",
   "scholar_id": "ElQU3_0AAAAJ",
-  "paper_count": 142,
+  "paper_count": 140,
   "papers": [
     {
       "id": "mutational-scanning-reveals-substrate-assisted-autoregulation-of-the-wnt-destruc",
@@ -22,6 +22,15 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:9vf0nzSNQJEC"
     },
     {
+      "id": "design-principles-of-a-membrane-spanning-ubiquitin-ligase",
+      "title": "Design principles of a membrane-spanning ubiquitin ligase",
+      "authors": "C Williams, LM Nocka, G Hedger, P Parashara, E Pardon, NR Latorraca, ...",
+      "publication": "Molecular cell 86 (11), 2207-2222. e16, 2026",
+      "year": "2026",
+      "citations": 4,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:eMMeJKvmdy0C"
+    },
+    {
       "id": "multiple-modes-of-cholesterol-translocation-in-the-human-smoothened-receptor",
       "title": "Multiple modes of cholesterol translocation in the human Smoothened receptor",
       "authors": "PD Bansal, M Kinnebrew, R Rohatgi, D Shukla",
@@ -38,15 +47,6 @@
       "year": "2026",
       "citations": 6,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:_B80troHkn4C"
-    },
-    {
-      "id": "design-principles-of-a-membrane-spanning-ubiquitin-ligase",
-      "title": "Design principles of a membrane-spanning ubiquitin ligase",
-      "authors": "C Williams, LM Nocka, G Hedger, P Parashara, E Pardon, NR Latorraca, ...",
-      "publication": "bioRxiv, 2025",
-      "year": "2025",
-      "citations": 4,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:eMMeJKvmdy0C"
     },
     {
       "id": "plasma-membrane-accessible-cholesterol-is-regulated-by-acc1-and-lipid-droplets",
@@ -72,8 +72,17 @@
       "authors": "A Butera, I Amelio",
       "publication": "Trends in Cell Biology 35 (3), 258-268, 2025",
       "year": "2025",
-      "citations": 38,
+      "citations": 36,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:PELIpwtuRlgC"
+    },
+    {
+      "id": "direct-ionic-stress-sensing-and-mitigation-by-the-transcription-factor-nfat5",
+      "title": "Direct ionic stress sensing and mitigation by the transcription factor NFAT5",
+      "authors": "CB Khandwala, P Sarkar, HB Schmidt, M Ma, GV Pusapati, F Lamoliatte, ...",
+      "publication": "Science Advances 11 (8), eadu3194, 2025",
+      "year": "2025",
+      "citations": 10,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:B3FOqHPlNUQC"
     },
     {
       "id": "perfil-empreendedor-dos-cirurgi-es-dentistas-atuantes-na-rea-de-pr-tese-dent-ria",
@@ -90,7 +99,7 @@
       "authors": "M Ma, R Dubey, A Jen, GV Pusapati, B Singal, E Shishkova, KA Overmyer, ...",
       "publication": "Science 386 (6722), 667-672, 2024",
       "year": "2024",
-      "citations": 28,
+      "citations": 29,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -139,15 +148,6 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:sSrBHYA8nusC"
     },
     {
-      "id": "direct-ionic-stress-sensing-and-mitigation-by-the-transcription-factor-nfat5",
-      "title": "Direct ionic stress sensing and mitigation by the transcription factor NFAT5",
-      "authors": "CB Khandwala, P Sarkar, HB Schmidt, M Ma, M Kinnebrew, GV Pusapati, ...",
-      "publication": "bioRxiv, 2023.09. 23.559074, 2023",
-      "year": "2023",
-      "citations": 9,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:B3FOqHPlNUQC"
-    },
-    {
       "id": "the-energetics-and-ion-coupling-of-cholesterol-transport-through-patched1",
       "title": "The energetics and ion coupling of cholesterol transport through Patched1",
       "authors": "TB Ansell, RA Corey, LV Viti, M Kinnebrew, R Rohatgi, C Siebold, ...",
@@ -160,9 +160,9 @@
       "id": "the-inseparable-relationship-between-cholesterol-and-hedgehog-signaling",
       "title": "The inseparable relationship between cholesterol and Hedgehog signaling",
       "authors": "C Siebold, R Rohatgi",
-      "publication": "Annual review of biochemistry 92 (1), 273-298, 2023",
+      "publication": "Annual Review of Biochemistry 92 (1), 273-298, 2023",
       "year": "2023",
-      "citations": 32,
+      "citations": 33,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:08ZZubdj9fEC"
     },
     {
@@ -180,14 +180,14 @@
       "authors": "HB Schmidt, ZA Jaafar, BE Wulff, JJ Rodencal, K Hong, MO Aziz-Zanjani, ...",
       "publication": "Cell reports 41 (6), 2022",
       "year": "2022",
-      "citations": 58,
+      "citations": 59,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:K3LRdlH-MEoC"
     },
     {
       "id": "patched-1-regulates-smoothened-by-controlling-sterol-binding-to-its-extracellula",
       "title": "Patched 1 regulates Smoothened by controlling sterol binding to its extracellular cysteine-rich domain",
       "authors": "M Kinnebrew, RE Woolley, TB Ansell, EFX Byrne, S Frigui, G Luchetti, ...",
-      "publication": "Science advances 8 (22), eabm5563, 2022",
+      "publication": "Science Advances 8 (22), eabm5563, 2022",
       "year": "2022",
       "citations": 50,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:WbkHhVStYXYC"
@@ -207,7 +207,7 @@
       "authors": "SC Griffiths, RA Schwab, K El Omari, B Bishop, EJ Iverson, T Malinauskas, ...",
       "publication": "Nature communications 12 (1), 7171, 2021",
       "year": "2021",
-      "citations": 41,
+      "citations": 40,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:u9iWguZQMMsC"
     },
     {
@@ -216,7 +216,7 @@
       "authors": "M Kinnebrew, G Luchetti, R Sircar, S Frigui, LV Viti, T Naito, F Beckert, ...",
       "publication": "Elife 10, e70504, 2021",
       "year": "2021",
-      "citations": 68,
+      "citations": 69,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:p2g8aNsByqUC"
     },
     {
@@ -234,7 +234,7 @@
       "authors": "JH Kong, CB Young, GV Pusapati, FH Espinoza, CB Patel, F Beckert, ...",
       "publication": "Development 148 (19), dev199867, 2021",
       "year": "2021",
-      "citations": 15,
+      "citations": 16,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:SP6oXDckpogC"
     },
     {
@@ -259,7 +259,7 @@
       "id": "an-essential-role-for-grk2-in-hedgehog-signalling-downstream-of-smoothened",
       "title": "An essential role for Grk2 in Hedgehog signalling downstream of Smoothened",
       "authors": "Z Zhao, RTH Lee, GV Pusapati, A Iyu, R Rohatgi, PW Ingham",
-      "publication": "The EMBO Reports 22 (5), EMBR202152895, 2021",
+      "publication": "EMBO reports 22 (5), EMBR202152895, 2021",
       "year": "2021",
       "citations": 3,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:nb7KW1ujOQ8C"
@@ -294,7 +294,7 @@
     {
       "id": "bile-acid-biosynthesis-in-smith-lemli-opitz-syndrome-bypassing-cholesterol-poten",
       "title": "Bile acid biosynthesis in Smith-Lemli-Opitz syndrome bypassing cholesterol: Potential importance of pathway intermediates",
-      "authors": "J Abdel-Khalik, T Hearn, A Dickson, P Crick, E Yutuc, K Austin-Muttitt, ...",
+      "authors": "J Abdel-Khalik, T Hearn, AL Dickson, PJ Crick, E Yutuc, K Austin-Muttitt, ...",
       "publication": "The Journal of steroid biochemistry and molecular biology 206, 105794, 2021",
       "year": "2021",
       "citations": 31,
@@ -306,7 +306,7 @@
       "authors": "A Radhakrishnan, R Rohatgi, C Siebold",
       "publication": "Nature chemical biology 16 (12), 1303-1313, 2020",
       "year": "2020",
-      "citations": 169,
+      "citations": 170,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:NhqRSupF_l8C"
     },
     {
@@ -315,8 +315,17 @@
       "authors": "JH Kong, CB Young, GV Pusapati, CB Patel, S Ho, A Krishnan, JHI Lin, ...",
       "publication": "Developmental cell 55 (4), 432-449. e12, 2020",
       "year": "2020",
-      "citations": 58,
+      "citations": 59,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:b0M2c_1WBrUC"
+    },
+    {
+      "id": "mutations-in-grk2-cause-jeune-syndrome-by-impairing-hedgehog-and-canonical-wnt-s",
+      "title": "Mutations in GRK2 cause Jeune syndrome by impairing Hedgehog and canonical Wnt signaling",
+      "authors": "M Bosakova, SP Abraham, A Nita, E Hruba, M Buchtova, SP Taylor, ...",
+      "publication": "EMBO molecular medicine 12 (11), EMMM201911739, 2020",
+      "year": "2020",
+      "citations": 32,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:abG-DnoFyZgC"
     },
     {
       "id": "a-ubiquitin-based-mechanism-for-the-oligogenic-inheritance-of-heterotaxy-and-hea",
@@ -333,7 +342,7 @@
       "authors": "R Dubey, P van Kerkhof, I Jordens, T Malinauskas, GV Pusapati, ...",
       "publication": "elife 9, e54469, 2020",
       "year": "2020",
-      "citations": 62,
+      "citations": 64,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:f2IySw72cVMC"
     },
     {
@@ -369,7 +378,7 @@
       "authors": "AE Conicella, GL Dignon, GH Zerze, HB Schmidt, AM D’Ordine, YC Kim, ...",
       "publication": "Proceedings of the National Academy of Sciences 117 (11), 5883-5894, 2020",
       "year": "2020",
-      "citations": 437,
+      "citations": 438,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -391,15 +400,6 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:cFHS6HbyZ2cC"
     },
     {
-      "id": "mutations-in-grk2-cause-jeune-syndrome-by-impairing-hedgehog-and-canonical-wnt-s",
-      "title": "Mutations in GRK2 cause Jeune syndrome by impairing Hedgehog and canonical Wnt signaling",
-      "authors": "M Bosakova, S Poovakulathu Abraham, A Nită, E Hruba, M Buchtova, ...",
-      "publication": "EMBO molecular medicine, 2020",
-      "year": "2020",
-      "citations": 33,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:abG-DnoFyZgC"
-    },
-    {
       "id": "cholesterol-accessibility-at-the-ciliary-membrane-controls-hedgehog-signaling",
       "title": "Cholesterol accessibility at the ciliary membrane controls hedgehog signaling",
       "authors": "M Kinnebrew, EJ Iverson, BB Patel, GV Pusapati, JH Kong, KA Johnson, ...",
@@ -414,7 +414,7 @@
       "authors": "HB Schmidt, A Barreau, R Rohatgi",
       "publication": "Nature communications 10 (1), 4890, 2019",
       "year": "2019",
-      "citations": 208,
+      "citations": 210,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:u_35RYKgDlwC"
     },
     {
@@ -454,21 +454,12 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:3s1wT3WcHBgC"
     },
     {
-      "id": "erratum-dynamic-remodeling-of-membrane-composition-drives-cell-cycle-through-pri",
-      "title": "Erratum: Dynamic Remodeling of Membrane Composition Drives Cell Cycle through Primary Cilia Excision (Cell (2017) 168 1-2 (264-279. e15) PII: S0092-8674 (19) 30678-6)",
-      "authors": "SC Phua, S Chiba, M Suzuki, E Su, EC Roberson, GV Pusapati, ...",
-      "publication": "Cell 178 (1), 261, 2019",
-      "year": "2019",
-      "citations": 2,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:EUQCXRtRnyEC"
-    },
-    {
       "id": "biochemical-mechanisms-of-vertebrate-hedgehog-signaling",
       "title": "Biochemical mechanisms of vertebrate hedgehog signaling",
       "authors": "JH Kong, C Siebold, R Rohatgi",
       "publication": "Development 146 (10), dev166892, 2019",
       "year": "2019",
-      "citations": 286,
+      "citations": 289,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -477,7 +468,7 @@
       "authors": "G Hedger, H Koldsø, M Chavent, C Siebold, R Rohatgi, MSP Sansom",
       "publication": "Structure 27 (3), 549-559. e2, 2019",
       "year": "2019",
-      "citations": 105,
+      "citations": 103,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:35N4QoGY0k4C"
     },
     {
@@ -488,6 +479,15 @@
       "year": "2019",
       "citations": 2,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:pqnbT2bcN3wC"
+    },
+    {
+      "id": "discovery-of-gene-regulatory-elements-through-a-new-bioinformatics-analysis-of-h",
+      "title": "Discovery of gene regulatory elements through a new bioinformatics analysis of haploid genetic screens",
+      "authors": "BB Patel, AM Lebensohn, GV Pusapati, JE Carette, J Salzman, R Rohatgi",
+      "publication": "Plos one 14 (1), e0198463, 2019",
+      "year": "2019",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:lSLTfruPkqcC"
     },
     {
       "id": "mechanisms-and-physiological-implications-of-lgr-dependent-and-lgr-independent-p",
@@ -517,15 +517,6 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:70eg2SAEIzsC"
     },
     {
-      "id": "discovery-of-gene-regulatory-elements-through-a-new-bioinformatics-analysis-of-h",
-      "title": "Discovery of gene regulatory elements through a new bioinformatics analysis of haploid genetic screens",
-      "authors": "BB Patel, AM Lebensohn, JE Carette, J Salzman, R Rohatgi",
-      "publication": "bioRxiv, 327775, 2018",
-      "year": "2018",
-      "citations": 0,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:lSLTfruPkqcC"
-    },
-    {
       "id": "spatiotemporal-manipulation-of-ciliary-glutamylation-reveals-its-roles-in-intrac",
       "title": "Spatiotemporal manipulation of ciliary glutamylation reveals its roles in intraciliary trafficking and Hedgehog signaling",
       "authors": "SR Hong, CL Wang, YS Huang, YC Chang, YC Chang, GV Pusapati, ...",
@@ -540,7 +531,7 @@
       "authors": "EFX Byrne, G Luchetti, R Rohatgi, C Siebold",
       "publication": "Current opinion in cell biology 51, 81-88, 2018",
       "year": "2018",
-      "citations": 80,
+      "citations": 79,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:BqipwSGYUEgC"
     },
     {
@@ -549,8 +540,17 @@
       "authors": "A Wang, AE Conicella, HB Schmidt, EW Martin, SN Rhoads, AN Reeb, ...",
       "publication": "The EMBO journal 37 (5), EMBJ201797452, 2018",
       "year": "2018",
-      "citations": 525,
+      "citations": 526,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:J_g5lzvAfSwC"
+    },
+    {
+      "id": "r-spondins-can-potentiate-wnt-signaling-without-lgrs",
+      "title": "R-spondins can potentiate WNT signaling without LGRs",
+      "authors": "AM Lebensohn, R Rohatgi",
+      "publication": "Elife 7, e33126, 2018",
+      "year": "2018",
+      "citations": 166,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:RGFaLdJalmkC"
     },
     {
       "id": "g-protein-coupled-receptors-control-the-sensitivity-of-cells-to-the-morphogen-so",
@@ -558,7 +558,7 @@
       "authors": "GV Pusapati, JH Kong, BB Patel, M Gouti, A Sagner, R Sircar, G Luchetti, ...",
       "publication": "Science signaling 11 (516), eaao5749, 2018",
       "year": "2018",
-      "citations": 82,
+      "citations": 83,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -569,15 +569,6 @@
       "year": "2018",
       "citations": 174,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:GnPB-g6toBAC"
-    },
-    {
-      "id": "r-spondins-can-potentiate-wnt-signaling-without-lgrs",
-      "title": "R-spondins can potentiate WNT signaling without LGRs",
-      "authors": "AM Lebensohn, R Rajat",
-      "publication": "elife 7, 2018",
-      "year": "2018",
-      "citations": 168,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:RGFaLdJalmkC"
     },
     {
       "id": "r-spondins-can-potentiate-wnt-signaling-without-lgr-receptors",
@@ -594,8 +585,17 @@
       "authors": "SC Phua, S Chiba, M Suzuki, E Su, EC Roberson, GV Pusapati, M Setou, ...",
       "publication": "Cell 168 (1), 264-279. e15, 2017",
       "year": "2017",
-      "citations": 419,
+      "citations": 421,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:k_IJM867U9cC"
+    },
+    {
+      "id": "comparative-genetic-screens-in-human-cells-reveal-new-regulatory-mechanisms-in-w",
+      "title": "Comparative genetic screens in human cells reveal new regulatory mechanisms in WNT signaling",
+      "authors": "AM Lebensohn, R Dubey, LR Neitzel, O Tacchelly-Benites, E Yang, ...",
+      "publication": "Elife 5, e21459, 2016",
+      "year": "2016",
+      "citations": 68,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:isC4tDSrTZIC"
     },
     {
       "id": "cholesterol-activates-the-g-protein-coupled-receptor-smoothened-to-promote-hedge",
@@ -603,7 +603,7 @@
       "authors": "G Luchetti, R Sircar, JH Kong, S Nachtergaele, A Sagner, EFX Byrne, ...",
       "publication": "Elife 5, e20304, 2016",
       "year": "2016",
-      "citations": 285,
+      "citations": 284,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:TFP_iSt0sucC"
     },
     {
@@ -612,7 +612,7 @@
       "authors": "R Dubey, AM Lebensohn, Z Bahrami-Nejad, C Marceau, M Champion, ...",
       "publication": "Cancer research 76 (19), 5810-5821, 2016",
       "year": "2016",
-      "citations": 51,
+      "citations": 50,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -630,23 +630,14 @@
       "authors": "EFX Byrne, R Sircar, PS Miller, G Hedger, G Luchetti, S Nachtergaele, ...",
       "publication": "Nature 535 (7613), 517-522, 2016",
       "year": "2016",
-      "citations": 423,
+      "citations": 426,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:j3f4tGmQtD8C"
-    },
-    {
-      "id": "structural-basis-for-smoothened-regulation-by-its-extracellular-domains",
-      "title": "Structural basis for Smoothened regulation by its extracellular domains",
-      "authors": "C Siebold, E Byrne, P Miller, M Sansom, G Hedger, S Newstead, R Sircar, ...",
-      "publication": "Nature 535, 2016",
-      "year": "2016",
-      "citations": 2,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:g5m5HwL7SMYC"
     },
     {
       "id": "an-essential-role-for-grk2-in-hedgehog-signalling-downstream-of-smoothened",
       "title": "An essential role for Grk2 in Hedgehog signalling downstream of Smoothened",
       "authors": "Z Zhao, RTH Lee, GV Pusapati, A Iyu, R Rohatgi, PW Ingham",
-      "publication": "The EMBO Reports 17 (5), 739-752, 2016",
+      "publication": "EMBO reports 17 (5), 15, 2016",
       "year": "2016",
       "citations": 62,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:RHpTSmoSYBkC"
@@ -668,15 +659,6 @@
       "year": "2016",
       "citations": 0,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:M3NEmzRMIkIC"
-    },
-    {
-      "id": "comparative-genetic-screens-in-human-cells-reveal-new-regulatory-mechanisms-in-w",
-      "title": "Comparative genetic screens in human cells reveal new regulatory mechanisms in WNT signaling",
-      "authors": "AM Lebensohn, D Ramin, LR Neitzel, TB Ofelia, Y Eungi, CD Marceau, ...",
-      "publication": "Elife 5, 2016",
-      "year": "2016",
-      "citations": 66,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:isC4tDSrTZIC"
     },
     {
       "id": "functional-divergence-in-the-role-of-n-linked-glycosylation-in-smoothened-signal",
@@ -747,7 +729,7 @@
       "authors": "S Mukhopadhyay, R Rohatgi",
       "publication": "Seminars in cell & developmental biology 33, 63-72, 2014",
       "year": "2014",
-      "citations": 176,
+      "citations": 174,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -756,7 +738,7 @@
       "authors": "SR Montgomery, T Nargizyan, V Meliton, S Nachtergaele, R Rohatgi, ...",
       "publication": "Journal of Bone and Mineral Research 29 (8), 1872-1885, 2014",
       "year": "2014",
-      "citations": 88,
+      "citations": 84,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -765,7 +747,7 @@
       "authors": "SM Peyrot, S Nachtergaele, G Luchetti, LK Mydock-McGrane, H Fujiwara, ...",
       "publication": "Journal of Biological Chemistry 289 (16), 11095-11110, 2014",
       "year": "2014",
-      "citations": 27,
+      "citations": 28,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -774,7 +756,7 @@
       "authors": "GV Pusapati, CE Hughes, KV Dorn, D Zhang, P Sugianto, L Aravind, ...",
       "publication": "Developmental cell 28 (5), 483-496, 2014",
       "year": "2014",
-      "citations": 112,
+      "citations": 113,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:dhFuZR0502QC"
     },
     {
@@ -783,16 +765,16 @@
       "authors": "P Niewiadomski, JH Kong, R Ahrends, Y Ma, EW Humke, S Khan, ...",
       "publication": "Cell reports 6 (1), 168-181, 2014",
       "year": "2014",
-      "citations": 315,
+      "citations": 312,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:mVmsd5A6BfQC"
     },
     {
       "id": "isolation-and-mutational-analysis-of-circulating-tumor-cells-from-lung-cancer-pa",
       "title": "Isolation and mutational analysis of circulating tumor cells from lung cancer patients with magnetic sifters and biochips",
       "authors": "CM Earhart, CE Hughes, RS Gaster, CC Ooi, RJ Wilson, LY Zhou, ...",
-      "publication": "Lab on a Chip 14 (1), 78-88, 2014",
-      "year": "2014",
-      "citations": 212,
+      "publication": "Lab on a Chip 14 (1), 78-88, 2013",
+      "year": "2013",
+      "citations": 211,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:aqlVkmm33-oC"
     },
     {
@@ -810,7 +792,7 @@
       "authors": "EJ Carragee, G Chu, R Rohatgi, EL Hurwitz, BK Weiner, ST Yoon, ...",
       "publication": "JBJS 95 (17), 1537-1545, 2013",
       "year": "2013",
-      "citations": 321,
+      "citations": 318,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:blknAaTinKkC"
     },
     {
@@ -819,7 +801,7 @@
       "authors": "YC Lin, P Niewiadomski, B Lin, H Nakamura, SC Phua, J Jiao, ...",
       "publication": "Nature chemical biology 9 (7), 437-443, 2013",
       "year": "2013",
-      "citations": 159,
+      "citations": 158,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -871,7 +853,7 @@
       "id": "singapore-signalling-the-2012-hedgehog-pathway-cocktail",
       "title": "Singapore signalling: the 2012 hedgehog pathway cocktail",
       "authors": "J Briscoe, R Rohatgi",
-      "publication": "EMBO reports 13 (7), 580, 2012",
+      "publication": "The EMBO Reports 13 (7), 580-583, 2012",
       "year": "2012",
       "citations": 1,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:UebtZRa9Y70C"
@@ -882,7 +864,7 @@
       "authors": "S Nachtergaele, LK Mydock, K Krishnan, J Rammohan, PH Schlesinger, ...",
       "publication": "Nature chemical biology 8 (2), 211-220, 2012",
       "year": "2012",
-      "citations": 347,
+      "citations": 350,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:ufrVoPGSRksC"
     },
     {
@@ -900,7 +882,7 @@
       "authors": "EF Smith, R Rohatgi",
       "publication": "Science Signaling 4 (155), mr1-mr1, 2011",
       "year": "2011",
-      "citations": 22,
+      "citations": 21,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:roLk4NBRz8UC"
     },
     {
@@ -909,8 +891,8 @@
       "authors": "R Rohatgi, WJ Snell",
       "publication": "Current opinion in cell biology 22 (4), 541-546, 2010",
       "year": "2010",
-      "citations": 249,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:eQOLeE2rZwMC"
+      "citations": 248,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:eQOLeE2rZwMC"
     },
     {
       "id": "role-of-lipid-metabolism-in-smoothened-derepression-in-hedgehog-signaling",
@@ -918,8 +900,8 @@
       "authors": "A Yavari, R Nagaraj, E Owusu-Ansah, A Folick, K Ngo, T Hillman, G Call, ...",
       "publication": "Developmental cell 19 (1), 54-65, 2010",
       "year": "2010",
-      "citations": 126,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:WF5omc3nYNoC"
+      "citations": 127,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:WF5omc3nYNoC"
     },
     {
       "id": "the-output-of-hedgehog-signaling-is-controlled-by-the-dynamic-association-betwee",
@@ -927,7 +909,7 @@
       "authors": "EW Humke, KV Dorn, L Milenkovic, MP Scott, R Rohatgi",
       "publication": "Genes & development 24 (7), 670-682, 2010",
       "year": "2010",
-      "citations": 575,
+      "citations": 570,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -936,7 +918,7 @@
       "authors": "L Milenkovic, MP Scott, R Rohatgi",
       "publication": "Journal of Cell Biology 187 (3), 365-374, 2009",
       "year": "2009",
-      "citations": 336,
+      "citations": 335,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -963,7 +945,7 @@
       "authors": "R Rohatgi, L Milenkovic, RB Corcoran, MP Scott",
       "publication": "Proceedings of the National Academy of Sciences 106 (9), 3196-3201, 2009",
       "year": "2009",
-      "citations": 370,
+      "citations": 367,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -972,7 +954,7 @@
       "authors": "R Rohatgi, MP Scott",
       "publication": "Science 320 (5884), 1726-1727, 2008",
       "year": "2008",
-      "citations": 20,
+      "citations": 21,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -981,7 +963,7 @@
       "authors": "R Rohatgi, MP Scott",
       "publication": "Nature cell biology 9 (9), 1005-1009, 2007",
       "year": "2007",
-      "citations": 264,
+      "citations": 265,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -999,7 +981,7 @@
       "authors": "R Rohatgi, L Milenkovic, MP Scott",
       "publication": "Science 317 (5836), 372-376, 2007",
       "year": "2007",
-      "citations": 1794,
+      "citations": 1788,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1017,16 +999,16 @@
       "authors": "HYH Ho, R Rohatgi, AM Lebensohn, L Ma, J Li, SP Gygi, MW Kirschner",
       "publication": "Cell 118 (2), 203-216, 2004",
       "year": "2004",
-      "citations": 550,
+      "citations": 548,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:qjMakFHDy7sC"
     },
     {
       "id": "loss-of-function-analysis-of-epha-receptors-in-retinotectal-mapping",
       "title": "Loss-of-function analysis of EphA receptors in retinotectal mapping",
       "authors": "DA Feldheim, M Nakamoto, M Osterfield, NW Gale, TM DeChiara, ...",
-      "publication": "Journal of Neuroscience 24 (10), 2542-2550, 2004",
+      "publication": "The Journal of neuroscience 24 (10), 2542-2550, 2004",
       "year": "2004",
-      "citations": 183,
+      "citations": 181,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -1044,7 +1026,7 @@
       "authors": "S Eden, R Rohatgi, AV Podtelejnikov, M Mann, MW Kirschner",
       "publication": "Nature 418 (6899), 790-793, 2002",
       "year": "2002",
-      "citations": 1167,
+      "citations": 1160,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1071,7 +1053,7 @@
       "authors": "HYH Ho, R Rohatgi, L Ma, MW Kirschner",
       "publication": "Proceedings of the National Academy of Sciences 98 (20), 11306-11311, 2001",
       "year": "2001",
-      "citations": 143,
+      "citations": 141,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1080,7 +1062,7 @@
       "authors": "R Rohatgi, P Nollau, HYH Ho, MW Kirschner, BJ Mayer",
       "publication": "Journal of Biological Chemistry 276 (28), 26448-26452, 2001",
       "year": "2001",
-      "citations": 540,
+      "citations": 546,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -1089,7 +1071,7 @@
       "authors": "N Martinez-Quiles, R Rohatgi, IM Antón, M Medina, SP Saville, H Miki, ...",
       "publication": "Nature cell biology 3 (5), 484-491, 2001",
       "year": "2001",
-      "citations": 370,
+      "citations": 368,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1116,7 +1098,7 @@
       "authors": "R Rohatgi, HH Ho, MW Kirschner",
       "publication": "The Journal of cell biology 150 (6), 1299-1310, 2000",
       "year": "2000",
-      "citations": 869,
+      "citations": 866,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -1152,7 +1134,7 @@
       "authors": "R Rohatgi, L Ma, H Miki, M Lopez, T Kirchhausen, T Takenawa, ...",
       "publication": "Cell 97 (2), 221-231, 1999",
       "year": "1999",
-      "citations": 1808,
+      "citations": 1805,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1161,7 +1143,7 @@
       "authors": "LE Ma, R Rohatgi, MW Kirschner",
       "publication": "Proceedings of the National Academy of Sciences 95 (26), 15362-15367, 1998",
       "year": "1998",
-      "citations": 300,
+      "citations": 299,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1179,7 +1161,7 @@
       "authors": "R Rohatgi, DP Bartel, JW Szostak",
       "publication": "Journal of the American Chemical Society 118 (14), 3340-3344, 1996",
       "year": "1996",
-      "citations": 165,
+      "citations": 164,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -1188,7 +1170,7 @@
       "authors": "R Rohatgi, DP Bartel, JW Szostak",
       "publication": "Journal of the American Chemical Society 118 (14), 3332-3339, 1996",
       "year": "1996",
-      "citations": 160,
+      "citations": 155,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:_kc_bZDykSQC"
     },
     {
@@ -1215,7 +1197,7 @@
       "authors": "TI Smith, JC Frisch, R Rohatgi, HA Schwettman, RL Swent",
       "publication": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 1990",
       "year": "1990",
-      "citations": 30,
+      "citations": 16,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:J-pR_7NvFogC"
     },
     {
@@ -1233,16 +1215,16 @@
       "authors": "R Rohatgi, HA Schwettman, TI Smith, RL Swent",
       "publication": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 1988",
       "year": "1988",
-      "citations": 12,
+      "citations": 11,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:kRWSkSYxWN8C"
     },
     {
       "id": "visible-free-electron-laser-oscillator-constant-and-tapered-wiggler",
       "title": "Visible free-electron-laser oscillator (constant and tapered wiggler)",
-      "authors": "JA Edighoffer, GR Neil, S Fornaca, HR Thompson Jr, TI Smith, ...",
-      "publication": "Appl. Phys. Lett.;(United States) 52 (19), 1988",
+      "authors": "JA Edighoffer, GR Neil, S Fornaca, HR Thompson Jr, TI Smith",
+      "publication": "Applied physics letters 52 (19), 1569-1570, 1988",
       "year": "1988",
-      "citations": 21,
+      "citations": 20,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:XiVPGOgt02cC"
     },
     {
@@ -1260,7 +1242,7 @@
       "authors": "TI Smith, HA Schwettman, R Rohatgi, Y Lapierre, J Edighoffer",
       "publication": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 1987",
       "year": "1987",
-      "citations": 92,
+      "citations": 95,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:V3AGJWp-ZtQC"
     },
     {
@@ -1282,5 +1264,5 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:4OULZ7Gr8RgC"
     }
   ],
-  "updated": "2026-07-27T10:49:25Z"
+  "updated": "2026-08-03T10:50:00Z"
 }
