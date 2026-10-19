@@ -1,8 +1,17 @@
 {
   "author": "Rajat Rohatgi",
   "scholar_id": "ElQU3_0AAAAJ",
-  "paper_count": 141,
+  "paper_count": 142,
   "papers": [
+    {
+      "id": "fatty-acid-metabolism-controls-plasma-membrane-cholesterol-accessibility-via-atg",
+      "title": "Fatty acid metabolism controls plasma membrane cholesterol accessibility via ATGL-dependent phospholipid remodeling",
+      "authors": "KM Wijesinghe, C Kim, S Chen, EO Schad, E Takeshima, S Li, ...",
+      "publication": "Nature Communications, 2026",
+      "year": "2026",
+      "citations": 0,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:eq2jaN3J8jMC"
+    },
     {
       "id": "mutational-scanning-reveals-substrate-assisted-autoregulation-of-the-wnt-destruc",
       "title": "Mutational scanning reveals substrate-assisted autoregulation of the WNT destruction complex",
@@ -81,7 +90,7 @@
       "authors": "CB Khandwala, P Sarkar, HB Schmidt, M Ma, GV Pusapati, F Lamoliatte, ...",
       "publication": "Science Advances 11 (8), eadu3194, 2025",
       "year": "2025",
-      "citations": 12,
+      "citations": 14,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -153,7 +162,7 @@
       "authors": "TB Ansell, RA Corey, LV Viti, M Kinnebrew, R Rohatgi, C Siebold, ...",
       "publication": "Science Advances 9 (34), eadh1609, 2023",
       "year": "2023",
-      "citations": 11,
+      "citations": 12,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:tOudhMTPpwUC"
     },
     {
@@ -180,7 +189,7 @@
       "authors": "HB Schmidt, ZA Jaafar, BE Wulff, JJ Rodencal, K Hong, MO Aziz-Zanjani, ...",
       "publication": "Cell reports 41 (6), 2022",
       "year": "2022",
-      "citations": 65,
+      "citations": 66,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:K3LRdlH-MEoC"
     },
     {
@@ -243,7 +252,7 @@
       "authors": "M Kinnebrew, KA Johnson, A Radhakrishnan, R Rohatgi",
       "publication": "Hedgehog Signaling: Methods and Protocols, 73-87, 2021",
       "year": "2021",
-      "citations": 2,
+      "citations": 3,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -279,7 +288,7 @@
       "authors": "D Gokhman, RM Agoglia, M Kinnebrew, W Gordon, D Sun, VK Bajpai, ...",
       "publication": "Nature genetics 53 (4), 467-476, 2021",
       "year": "2021",
-      "citations": 92,
+      "citations": 93,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -297,7 +306,7 @@
       "authors": "J Abdel-Khalik, T Hearn, AL Dickson, PJ Crick, E Yutuc, K Austin-Muttitt, ...",
       "publication": "The Journal of steroid biochemistry and molecular biology 206, 105794, 2021",
       "year": "2021",
-      "citations": 32,
+      "citations": 33,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -306,7 +315,7 @@
       "authors": "A Radhakrishnan, R Rohatgi, C Siebold",
       "publication": "Nature chemical biology 16 (12), 1303-1313, 2020",
       "year": "2020",
-      "citations": 175,
+      "citations": 176,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:NhqRSupF_l8C"
     },
     {
@@ -378,7 +387,7 @@
       "authors": "AE Conicella, GL Dignon, GH Zerze, HB Schmidt, AM D’Ordine, YC Kim, ...",
       "publication": "Proceedings of the National Academy of Sciences 117 (11), 5883-5894, 2020",
       "year": "2020",
-      "citations": 454,
+      "citations": 455,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -423,7 +432,7 @@
       "authors": "AF Rudolf, M Kinnebrew, C Kowatsch, TB Ansell, K El Omari, B Bishop, ...",
       "publication": "Nature chemical biology 15 (10), 975-982, 2019",
       "year": "2019",
-      "citations": 91,
+      "citations": 92,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -468,7 +477,7 @@
       "authors": "G Hedger, H Koldsø, M Chavent, C Siebold, R Rohatgi, MSP Sansom",
       "publication": "Structure 27 (3), 549-559. e2, 2019",
       "year": "2019",
-      "citations": 105,
+      "citations": 106,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:35N4QoGY0k4C"
     },
     {
@@ -522,7 +531,7 @@
       "authors": "SR Hong, CL Wang, YS Huang, YC Chang, YC Chang, GV Pusapati, ...",
       "publication": "Nature communications 9 (1), 1732, 2018",
       "year": "2018",
-      "citations": 96,
+      "citations": 98,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -540,7 +549,7 @@
       "authors": "A Wang, AE Conicella, HB Schmidt, EW Martin, SN Rhoads, AN Reeb, ...",
       "publication": "The EMBO journal 37 (5), EMBJ201797452, 2018",
       "year": "2018",
-      "citations": 539,
+      "citations": 540,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -558,7 +567,7 @@
       "authors": "GV Pusapati, JH Kong, BB Patel, M Gouti, A Sagner, R Sircar, G Luchetti, ...",
       "publication": "Science signaling 11 (516), eaao5749, 2018",
       "year": "2018",
-      "citations": 85,
+      "citations": 86,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -567,7 +576,7 @@
       "authors": "GV Pusapati, JH Kong, BB Patel, A Krishnan, A Sagner, M Kinnebrew, ...",
       "publication": "Developmental cell 44 (1), 113-129. e8, 2018",
       "year": "2018",
-      "citations": 180,
+      "citations": 181,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:GnPB-g6toBAC"
     },
     {
@@ -594,7 +603,7 @@
       "authors": "AM Lebensohn, R Dubey, LR Neitzel, O Tacchelly-Benites, E Yang, ...",
       "publication": "Elife 5, e21459, 2016",
       "year": "2016",
-      "citations": 68,
+      "citations": 69,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:isC4tDSrTZIC"
     },
     {
@@ -603,7 +612,7 @@
       "authors": "G Luchetti, R Sircar, JH Kong, S Nachtergaele, A Sagner, EFX Byrne, ...",
       "publication": "Elife 5, e20304, 2016",
       "year": "2016",
-      "citations": 294,
+      "citations": 295,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:TFP_iSt0sucC"
     },
     {
@@ -765,7 +774,7 @@
       "authors": "P Niewiadomski, JH Kong, R Ahrends, Y Ma, EW Humke, S Khan, ...",
       "publication": "Cell reports 6 (1), 168-181, 2014",
       "year": "2014",
-      "citations": 317,
+      "citations": 316,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -774,7 +783,7 @@
       "authors": "CM Earhart, CE Hughes, RS Gaster, CC Ooi, RJ Wilson, LY Zhou, ...",
       "publication": "Lab on a Chip 14 (1), 78-88, 2013",
       "year": "2013",
-      "citations": 211,
+      "citations": 212,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:aqlVkmm33-oC"
     },
     {
@@ -801,7 +810,7 @@
       "authors": "YC Lin, P Niewiadomski, B Lin, H Nakamura, SC Phua, J Jiao, ...",
       "publication": "Nature chemical biology 9 (7), 437-443, 2013",
       "year": "2013",
-      "citations": 162,
+      "citations": 163,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -901,7 +910,7 @@
       "publication": "Current opinion in cell biology 22 (4), 541-546, 2010",
       "year": "2010",
       "citations": 250,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:eQOLeE2rZwMC"
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:eQOLeE2rZwMC"
     },
     {
       "id": "role-of-lipid-metabolism-in-smoothened-derepression-in-hedgehog-signaling",
@@ -963,7 +972,7 @@
       "authors": "R Rohatgi, MP Scott",
       "publication": "Science 320 (5884), 1726-1727, 2008",
       "year": "2008",
-      "citations": 22,
+      "citations": 23,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -990,7 +999,7 @@
       "authors": "R Rohatgi, L Milenkovic, MP Scott",
       "publication": "Science 317 (5836), 372-376, 2007",
       "year": "2007",
-      "citations": 1810,
+      "citations": 1811,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1008,7 +1017,7 @@
       "authors": "HYH Ho, R Rohatgi, AM Lebensohn, L Ma, J Li, SP Gygi, MW Kirschner",
       "publication": "Cell 118 (2), 203-216, 2004",
       "year": "2004",
-      "citations": 553,
+      "citations": 554,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1035,7 +1044,7 @@
       "authors": "S Eden, R Rohatgi, AV Podtelejnikov, M Mann, MW Kirschner",
       "publication": "Nature 418 (6899), 790-793, 2002",
       "year": "2002",
-      "citations": 1169,
+      "citations": 1171,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1107,7 +1116,7 @@
       "authors": "R Rohatgi, HH Ho, MW Kirschner",
       "publication": "The Journal of cell biology 150 (6), 1299-1310, 2000",
       "year": "2000",
-      "citations": 868,
+      "citations": 870,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -1143,7 +1152,7 @@
       "authors": "R Rohatgi, L Ma, H Miki, M Lopez, T Kirchhausen, T Takenawa, ...",
       "publication": "Cell 97 (2), 221-231, 1999",
       "year": "1999",
-      "citations": 1812,
+      "citations": 1813,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1273,5 +1282,5 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ElQU3_0AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ElQU3_0AAAAJ:4OULZ7Gr8RgC"
     }
   ],
-  "updated": "2026-10-12T16:39:24Z"
+  "updated": "2026-10-19T14:33:17Z"
 }
